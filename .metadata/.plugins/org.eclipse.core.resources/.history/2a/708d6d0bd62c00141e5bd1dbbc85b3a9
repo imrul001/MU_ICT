@@ -1,0 +1,17 @@
+package utilityPackage;
+
+import java.util.Random;
+
+public class utility {
+	 /***
+	  * method that generates random number from 1 to 10
+	  * 
+	  ***/
+	 public static int generateRandom(int maxlength){
+		 int randomNumber = 0;
+		 Random random = new Random();
+		 randomNumber = random.nextInt(maxlength) + 1;
+		 return randomNumber;
+	 }
+
+}

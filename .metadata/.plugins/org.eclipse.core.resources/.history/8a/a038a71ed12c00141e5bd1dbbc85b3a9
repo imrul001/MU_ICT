@@ -1,0 +1,5 @@
+
+public class nim {
+	System.out.println("this is the first program in eclips");
+
+}

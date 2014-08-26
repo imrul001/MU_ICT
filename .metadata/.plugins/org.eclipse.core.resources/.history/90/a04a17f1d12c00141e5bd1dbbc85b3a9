@@ -1,0 +1,17 @@
+import java.util.Random;
+
+
+public class nim {
+ public static void main(String[] args){
+	 
+	 
+ }
+ 
+ public int generateRandom(){
+	 int randomNumber = 0;
+	 Random random = new Random();
+	 randomNumber = random.nextInt();
+	 return randomNumber;
+ }
+ 
+}

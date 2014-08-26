@@ -1,0 +1,18 @@
+import java.util.Random;
+
+
+public class nim {
+ public static void main(String[] args){
+	 for(int i=0; i<3; i++){
+		 System.out.println(generateRandom());
+	 }
+	
+ }
+ 
+ public static int generateRandom(){
+	 int randomNumber = 0;
+	 Random random = new Random();
+	 randomNumber = random.nextInt();
+	 return randomNumber;
+ }
+}
