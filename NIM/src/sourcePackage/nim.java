@@ -65,9 +65,6 @@ public class nim {
 	 return isComputersTurn;
  }
  
- 
- 
- 
  public int getMaxValue(){
 	 return maxValue;
  }
