@@ -40,8 +40,37 @@ public class validate {
 	 }
 	 
 	 /**
-	  *
+	  * Validate Input String
 	  * 
 	  **/
+	 public static String checkStringInput(){
+		 String str = null;
+		 Scanner scanner = new Scanner(System.in);
+		 for(int i=0;;i++){
+			 try{
+				 str = scanner.nextLine().toLowerCase();
+				 if(isCorrectString(str)){
+					 break; 
+				 }else{
+					 System.out.println("Incorrect Input. Input should be Y/YES or N/NO. Try Again..");
+					 continue;
+				 }
+			 }catch(InputMismatchException exception){
+				 System.out.println("Incorrect Input. Try Again..");
+			 }
+		 }
+		 return str;
+	 }
+	 /**
+	  * Validate Message 
+	  * 
+	  **/
+	 public static boolean isCorrectString(String str){
+		 if(str.equalsIgnoreCase("y") || str.equalsIgnoreCase("yes") || str.equalsIgnoreCase("n")  || str.equalsIgnoreCase("no")){
+			 return true;
+		 }else{
+			 return false;
+		 }
+	 }
 
 }

@@ -1,6 +1,5 @@
 package playerPackage;
 
-import java.util.Scanner;
 
 import sourcePackage.nim;
 import utilityPackage.utility;
@@ -47,8 +46,10 @@ public class playerClass {
 		 }else{
 			 for(int j=0;;j++){
 				 System.out.println("Are you sure??? [Y/N].");
-				 Scanner scanner = new Scanner(System.in);
-				 String str = scanner.nextLine().toLowerCase();
+				 //take string input and validate
+				 String str = validate.checkStringInput();
+				 //String str = scanner.nextLine().toLowerCase();
+				 
 				 if(str.equalsIgnoreCase("Y") || str.equalsIgnoreCase("yes")){
 					 if(!isSafeForAgent(scope, coinRemaining)){
 						 continue;

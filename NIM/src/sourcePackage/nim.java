@@ -40,7 +40,7 @@ public class nim {
 				 scope = validate.isCorrectInput(scope);
 				 //scope = scanner.nextInt();
 				 
-				 //Force the player
+				 //Force the player by asking again
 				 scope = playerClass.askAgain(scope, numberOfCoins);
 				 numberOfCoins = utility.printStatus(scope, numberOfCoins);
 				 n.setComputersTurn(true);
