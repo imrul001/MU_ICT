@@ -8,10 +8,10 @@ public class utility {
 	  * method that generates random number from 1 to 10
 	  * 
 	  **/
-	 public static int generateRandom(int maxlength){
+	 public static int generateRandom(int maxValue){
 		 int randomNumber = 0;
 		 Random random = new Random();
-		 randomNumber = random.nextInt(maxlength) + 1;
+		 randomNumber = random.nextInt(maxValue) + 1;
 		 return randomNumber;
 	 }
 	 
@@ -21,9 +21,13 @@ public class utility {
 	  **/
 	 public static int printStatus(int scope, int totalCoin){
 		 int coinRest = totalCoin - scope;
-		 System.out.println("Number of remaining coins = "+coinRest);
-		 System.out.println("Take 1 or 2 or 3 coins");
+		 printStatusString(coinRest);
 		 return coinRest;
+	 }
+	 
+	 public static void printStatusString(int coinRemaining){
+		 System.out.println("Number of remaining coins = "+coinRemaining);
+		 System.out.println("Take 1 or 2 or 3 coins");
 	 }
 	 /**
 	  * Generate safe steps for agent 
@@ -31,16 +35,16 @@ public class utility {
 	  **/
 	 public static int generateStepByScope(int coinRemaining){
 		 int step = 0;
-		 if(coinRemaining <= 20 && coinRemaining >=18){
+		 if(coinRemaining <= 20 && coinRemaining >= 18){
 			 step = coinRemaining - 17;
 		 }
-		 if(coinRemaining <= 16 && coinRemaining >=14){
+		 if(coinRemaining <= 16 && coinRemaining >= 14){
 			 step = coinRemaining - 13;
 		 }
-		 if(coinRemaining <= 12 && coinRemaining >=10){
+		 if(coinRemaining <= 12 && coinRemaining >= 10){
 			 step = coinRemaining - 9;
 		 }
-		 if(coinRemaining <= 8 && coinRemaining >=6){
+		 if(coinRemaining <= 8 && coinRemaining >= 6){
 			 step = coinRemaining - 5;
 		 }
 		 if(coinRemaining < 5){
@@ -57,7 +61,7 @@ public class utility {
 	 public static void printResult(boolean isAgentsTurn){
 		 System.out.println();
 		 if(isAgentsTurn){
-			 System.out.println("You Won");
+			 System.out.println("Congrats!!! You Won");
 		 }else{
 			 System.out.println("Computer WINS");
 		 }
@@ -71,8 +75,15 @@ public class utility {
 	 public static int moveOfAgent(int coinRemaining){
 		 System.out.println();
 		 int step = utility.generateStepByScope(coinRemaining);
-		 System.out.println("Computer's move is "+step);
 		 return step;
+	 }
+	 
+	 /**
+	  * Method to print Agents Move
+	  * 
+	  **/
+	 public static void printAgentsMove(int step){
+		 System.out.println("Computer's move is = "+step);
 	 }
 
 }
