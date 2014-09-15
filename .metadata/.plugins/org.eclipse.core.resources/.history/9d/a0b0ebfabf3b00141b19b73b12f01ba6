@@ -1,0 +1,6 @@
+package testPackage;
+
+public class testQueue {
+	System.out.println("");
+
+}
