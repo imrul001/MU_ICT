@@ -2,8 +2,10 @@ package sourcePackage;
 
 import java.util.HashMap;
 
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Map;
+import java.util.Scanner;
 
 import org.apache.commons.collections4.map.MultiValueMap;
 
@@ -38,9 +40,62 @@ public class GraphSearch {
 		adjacents.put("D", "G");
 		
 		GraphSearch search = new GraphSearch();
-		search.performUCS(nodeList, startingNode, goalNode, edges, adjacents);
+		Graph graph = new Graph();
+		graph = getInputSet();
+		
+//		search.performUCS(nodeList, startingNode, goalNode, edges, adjacents);
+		search.performUCS(graph.getNodeList(), graph.getStartingNode(), graph.getGoalNode(), graph.getEdgesMap(), graph.getAjaceMap());
 	}
 	
+	/**
+	 *  Method to take input
+	 * 
+	 **/
+	public static Graph getInputSet(){
+		Graph graph = new Graph();
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("How many Nodes in your graph?");
+		int numberofNodes = scanner.nextInt();
+		String[] nodeList = new String[numberofNodes];
+		String[] startingNode = new String[1];
+		String[] endNode = new String[1];
+		graph.setNumberOfNodes(numberofNodes);
+		Map<String, Integer> edges = new HashMap<String, Integer>();
+		MultiValueMap<String, String> adjacents = new MultiValueMap<String, String>();  
+		
+		for(int i=0; i< graph.getNumberOfNodes(); i++){
+			Scanner scanner1 = new Scanner(System.in);
+			System.out.println("Enter the Name of the node No. "+(i+1)+" ....");
+			nodeList[i] = scanner1.next().trim();
+			System.out.println("Enter the number of "+nodeList[i]+"'s neighbour(s) ....");
+			int numberOFneighboursOfI = scanner1.nextInt();
+			String[] neighbours = new String[numberOFneighboursOfI];
+			int[] pathCostOfNeighbour = new int[numberOFneighboursOfI];
+			for(int j = 0; j < numberOFneighboursOfI; j++){
+				Scanner scanner2 = new Scanner(System.in);
+				System.out.println("Name of the Neighbour No." +(j+1)+" of "+nodeList[i]);
+				neighbours[j] = scanner2.next().trim();
+				adjacents.put(nodeList[i], neighbours[j]);
+				System.out.println("Cost/Distance for "+nodeList[i]+"_to_"+neighbours[j]+" ....");
+				pathCostOfNeighbour[j] = scanner2.nextInt();
+				edges.put(nodeList[i]+"_to_"+neighbours[j], pathCostOfNeighbour[j]);
+			}	
+		}
+		System.out.println("Enter the Current/Starting Node....");
+		startingNode[0] = scanner.next().trim();
+		System.out.println("Enter the Goal/Ending Node....");
+		endNode[0] = scanner.next().trim();
+		
+
+		graph.setNodeList(nodeList);
+		graph.setStartingNode(startingNode);
+		graph.setGoalNode(endNode);
+		graph.setEdgesMap(edges);
+		graph.setAdjaceMap(adjacents);
+		
+		System.out.println("Goal Node"+graph.getGoalNode());
+		return graph;
+	}
 	/**
 	 * Method to perform Uniform Cost Search(UCS)
 	 * 
@@ -57,9 +112,12 @@ public class GraphSearch {
 		
 		for(int i=1;;i++){
 			QueueItem firstItem = items.getFirst();
-			String[] adjacentNodes = Graph.getAdjacentByNode(getCurrentNode(firstItem), adjacents);
-			items = getUnsortedQueue(adjacentNodes, edges, items);				
-			items.removeFirst();
+			System.out.println(getCurrentNode(firstItem));
+			if(Graph.getAdjacentByNode(getCurrentNode(firstItem), adjacents) != null){
+				String[] adjacentNodes = Graph.getAdjacentByNode(getCurrentNode(firstItem), adjacents);
+			    items = getUnsortedQueue(adjacentNodes, edges, items);
+				items.removeFirst();
+			}
 			System.out.println("Size of queue "+items.size());
 			MyQueue queue = new MyQueue();
 			items = queue.sortPriorityQueue(items);
@@ -133,7 +191,7 @@ public class GraphSearch {
 	public static boolean isTheGoalState(LinkedList<QueueItem> items, String goalState){
 		QueueItem item = items.getFirst();
 		String[] path = item.getPath();
-		if(path[path.length -1] == goalState){
+		if(goalState.equalsIgnoreCase(path[path.length -1].trim())){
 			return true;
 		}else{
 			return false;

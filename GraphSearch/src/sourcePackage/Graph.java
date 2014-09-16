@@ -1,12 +1,71 @@
 package sourcePackage;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 
 import org.apache.commons.collections4.map.MultiValueMap;
 
 
 public class Graph {
+	
+	private int nubmberOFnodes;
+	private String[] nodeList;
+	private String[] startingNode;
+	private String[] goalNode;
+	private Map<String, Integer> edges;
+	private MultiValueMap<String, String> adjacents;
+	
+	public String[] getNodeList(){
+		return Arrays.copyOf(nodeList, nodeList.length);
+	}
+	
+	public void setNodeList(String[] nList){
+		this.nodeList = Arrays.copyOf(nList, nList.length);
+	}
+	
+	public String[] getStartingNode(){
+		return Arrays.copyOf(startingNode, startingNode.length);
+	}
+	
+	public void setStartingNode(String[] startNode){
+		this.startingNode = Arrays.copyOf(startNode, startNode.length);
+	}
+	
+	public String[] getGoalNode(){
+		return Arrays.copyOf(goalNode, goalNode.length);
+	}
+	
+	public void setGoalNode(String[] gNode){
+		this.goalNode = Arrays.copyOf(gNode, gNode.length);
+	}
+	
+	public Map<String, Integer> getEdgesMap(){
+		return this.edges;
+	}
+	
+	public void setEdgesMap(Map<String, Integer> edgesMap){
+		this.edges = edgesMap;
+	}
+	
+    public MultiValueMap<String, String> getAjaceMap(){
+    	return this.adjacents;
+    }
+    
+    public void setAdjaceMap(MultiValueMap<String, String> adjacentMap){
+    	this.adjacents = adjacentMap;
+    }
+    
+    public int getNumberOfNodes(){
+    	return this.nubmberOFnodes;
+    }
+    
+    public void setNumberOfNodes(int nOFnodes){
+    	this.nubmberOFnodes = nOFnodes;
+    }	
+	
+	
 	
 	/**
 	 * Method to get Adjacent Nodes by Current Node  
@@ -19,7 +78,7 @@ public class Graph {
 		for(int i = 0; i < list.size(); i++){
 			p[i] = list.get(i);	
 		}
-		return p;
+		return p;	
 	}
 	/**
 	 * Method to printResult
