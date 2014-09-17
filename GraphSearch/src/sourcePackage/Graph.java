@@ -1,4 +1,8 @@
 package sourcePackage;
+/**
+ * @author imrul
+ * 
+ */
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -74,21 +78,26 @@ public class Graph {
 	public static String[] getAdjacentByNode(String node, MultiValueMap<String, String> adjacents){
 		String searchKey = node;
 		List<String> list = (List<String>)adjacents.get(searchKey);
-		String[] p = new String[list.size()];
-		for(int i = 0; i < list.size(); i++){
-			p[i] = list.get(i);	
+		if(list != null){
+			String[] p = new String[list.size()];
+			for(int i = 0; i < list.size(); i++){
+				p[i] = list.get(i);	
+			}
+			return p;	
+		}else{
+			return null;
 		}
-		return p;	
+			
 	}
 	/**
 	 * Method to printResult
 	 * 
 	 **/
-	public static void printOptimalPath(LinkedList<QueueItem> items){
+	public static void printOptimalPath(LinkedList<QueueItem> items, String startNode, String goalNode){
 		QueueItem item = items.getFirst();
 		String[] path = item.getPath();
 		System.out.println("");
-		System.out.println("The optimal path is");
+		System.out.println("For '"+startNode+"_to_"+goalNode+"' The optimal path is");
 		for(int i=0;i<=path.length-1;i++){
 			if(i==path.length-1){
 				System.out.print(path[i]);
@@ -97,7 +106,7 @@ public class Graph {
 			}
 		}
 		System.out.println("");
-		System.out.println("And the cost is "+item.getCost());
+		System.out.println("The Cost/Distance for '"+startNode+"_to_"+goalNode+"' is "+item.getCost());
 	}
 	
 	
