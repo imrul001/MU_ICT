@@ -1,0 +1,2221 @@
+EGEW 513
+Solid and Hazardous Waste
+Management
+2. Solid Waste Generation Rates
+and
+Characterization
+Dr. Ranjna Jindal
+1
+
+Lecture Outline
+• Generation Rates
+• Waste Characterization
+» Sources of Solid Wastes
+» Classification of Solid Wastes
+
+• Composition of Municipal Solid Waste (MSW)
+• Determination of the Composition of MSW in
+the Field
+
+2
+
+2.1 Generation Rates
+• Solid waste generation rate of a city or town is the estimated
+amount of wastes, usually in kilograms per person per day
+(kg/c/d = kg per capita per day).
+• Nearly all the countries of the world are now facing the
+problem of dealing with growing mountains of solid wastes,
+especially in the big, bulging, and dynamic metropolitan
+cities.
+• The first and the very basic factor affecting the quantity of
+wastes in a country is the population.
+• Simply enough, more number of people will produce more
+waste.
+3
+
+• Secondly, it is a well evident fact that the quantity of waste
+generated in a country is directly related to the degree of
+development of the country.
+• Statistics show that the waste increases proportionally to the
+GNP (Gross National Product – an economic indicator) of
+the nation.
+• The total annual amount of solid wastes produced in a
+country depends on many factors e.g.:
+» population of the country,
+» standard of living,
+» social and cultural traditions of the people,
+» degree of industrialization
+4
+
+• The per capita quantity of waste serves a better parameter
+for the comparative view among various countries.
+• Municipal solid waste includes wastes generated in
+residential and commercial areas and therefore becomes
+the responsibility of the area municipal authority.
+• Wastes from industrial and agricultural operations are
+considered separately.
+• However, it is government's duty to enforce proper laws
+and regulations with regards to the industrial and other
+kinds of waste management.
+5
+
+• In addition to the waste produced in residential and
+commercial premises, street waste is also included in the
+municipal solid wastes.
+• Demolition and construction wastes are not normally
+expected to be dumped in the municipal collection bins and
+the concerned parties are required to bring the material
+directly to specific disposal sites for its disposal.
+• Industries produce different categories of wastes which
+include those from processes, packaging, offices, canteen
+and plant.
+• Excluding the process solid waste, the remaining
+categories can be and usually are disposed along with
+municipal wastes.
+6
+
+• Industrial processes solid wastes which are not of toxic
+nature, can be disposed at the common sites.
+• Industrial establishments are responsible for the storage,
+collection, and transportation to the disposal sites.
+• Agricultural wastes are normally not considered within
+municipal limits.
+• However, similar types of wastes could be expected from
+institutional gardens, nurseries and experimental farms
+within municipal limits.
+• The quantity of municipal solid wastes generated can be
+assessed accurately in house to house collection system.
+7
+
+• Unfortunately, in most developing countries such system is
+practiced only in selected parts of a few metropolitan cities
+and therefore making it difficult to assess the quantity
+correctly.
+• Also, the quantity of waste measured at the disposal site
+can not be relied upon as it does not represent the total
+amount of waste generated.
+• The per capita generation rates for some Asian countries
+are given in Tables 2.1-2.2
+
+8
+
+Table 2.1 Solid Waste Generation Rate of Some Asian
+Countries
+Country
+
+Large cities
+kg/c/d
+
+Medium cities
+kg/c/d
+
+Small towns
+kg/c/d
+
+0.5
+
+0.4
+
+0.4
+
+-
+
+0.36
+
+-
+
+Hong Kong
+
+3.6
+
+-
+
+-
+
+China
+
+1.59
+
+-
+
+-
+
+India
+
+0.5
+
+0.3-0.4
+
+0.1
+
+0.65-0.83
+
+0.55-0.63
+
+0.47-0.5
+
+Japan
+
+1.2
+
+1.1
+
+-
+
+Korea
+
+2.8
+
+-
+
+-
+
+Nepal
+
+0.4
+
+0.2-0.3
+
+-
+
+Philippines
+
+0.5
+
+-
+
+-
+
+Sri Lanka
+
+0.9
+
+0.5
+
+0.2
+
+Taiwan
+
+0.9
+
+-
+
+-
+
+Thailand
+
+0.8-0.9
+
+0.7
+
+0.6
+
+Bangladesh
+Myanmar (Burma)
+
+Indonesia
+
+9
+
+Table 2.2 Solid Waste Generation in Thailand from 1992-1999
+Solid Waste Generation (tons/day)
+
+Area
+
+1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+1. BMA
+
+6,000
+
+7,050
+
+7,000
+
+7,192
+
+8,098
+
+8,949
+
+8,497
+
+8,990
+
+2. Municipalities & Pattaya
+City
+
+3,180
+
+3,422
+
+5,618
+
+6,311
+
+6,658
+
+8,196
+
+7,414
+
+12,328
+
+3. Sanitary Districts
+
+4,440
+
+4,138
+
+4,184
+
+4,655
+
+4,895
+
+4,819
+
+4,777
+
+-
+
+4. Outside of municipality &
+sanitary districts
+
+15,920
+
+16,030
+
+16,206
+
+16,334
+
+16,378
+
+15,138
+
+16,558
+
+16,561
+
+29,540
+
+30,640
+
+33,008
+
+34,492
+
+36,029
+
+37,102
+
+37,246
+
+37,879
+
+Total
+
+10
+
+Table 2.3 Solid Waste Generation in Thailand from 1993- 2002
+Solid waste generation (tons/day)
+
+Area
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+1. BMA
+
+7,050
+
+7,000
+
+7,192
+
+8,098
+
+8,949
+
+8,497
+
+8,990
+
+9,130
+
+9,317
+
+9,617
+
+Waste Generation in Thailand
+from 19932. Solid
+Municipalities
+& Pattaya
+2002
+City
+
+3,422
+
+5,618
+
+6,311
+
+6,658
+
+8,196
+
+7,414
+
+12,328
+
+11,785
+
+11,903
+
+11,976
+
+3. Sanitary District
+
+4,138
+
+4,184
+
+4,655
+
+4,895
+
+4,819
+
+4,777
+
+-
+
+-
+
+-
+
+-
+
+4. Outside of municipality&
+sanitary district
+
+16,030
+
+16,206
+
+16,334
+
+16,378
+
+15,138
+
+16,558
+
+16,561
+
+17,170
+
+38,643
+
+17,632
+
+33,008
+
+34,492
+
+36,029
+
+37,102
+
+37,246
+
+37,879
+
+38,170
+
+38,643
+
+39,225
+
+Remark :
+
+in year 1999 all sanitary districts was promoted to be municipalities.
+
+Total
+
+30,640
+
+Note: In year 1999, all sanitary districts was promoted to be municipalities
+
+11
+
+Table 2.4 : The Amount of Municipal Solid Waste between 2003 - 2004
+
+12
+
+Example 2.1:
+Based on the information reported by the Pollution
+Control Department of Thailand (PCD) in Table 2.2:
+(a) How much % increase was in solid waste generated in
+the Bangkok Metropolitan Area (BMA) during the
+period of 1992-1999?
+(b) Assuming Thailand’s population in 1999 to be at 65
+million, determine the per capita solid waste
+generation rate for the whole country in that year.
+
+13
+
+Solution:
+(a) Solid waste generation rate in BMA
+region during 1992 (tons/day)
+Total amount of wastes generated
+during 1992 (tons)
+Solid waste generation rate in BMA
+region during 1999 (tons/day)
+Total amount of wastes generated
+during 1999 (tons)
+Therefore, % increase in waste =
+generation during 1992 - 1999
+(8990 - 6000) x 365 x 100
+6000 x 365
+
+=
+
+6,000
+
+=
+
+6,000 x 365
+
+=
+
+8,990
+
+=
+
+8,990 x 365
+
+= 2990 x 100
+6000
+= 49.83 %
+14
+
+(b)
+
+Solid waste generation rate in
+Thailand during 1999
+
+=
+
+37,879 (tons/d)
+
+Thailand’s population in 1999
+
+=
+
+65 x 106
+
+So, per capita solid waste
+generation rate for the whole
+country in that year
+
+=
+
+37879 x 1000 kg/c/d
+65 x 106
+
+=
+
+0.582 kg/c/d
+
+15
+
+2. 2 Waste Characterization
+2.2.1 Sources of Solid Wastes
+• In order to plan and design the various elements of
+solid waste management activities, knowledge about
+the sources and types (categories) of wastes as well
+as information on the quantity and the composition
+of wastes generated from each source is essential.
+• Based on the commonly adapted source
+classification, the following waste categories are
+generally used:
+(1)
+(2)
+(3)
+(4)
+
+residential
+commercial
+institutional
+construction and demolition
+
+16
+
+2. 2 Waste Characterization
+2.2.1 Sources of Solid Wastes
+(5)
+(6)
+(7)
+(8)
+
+municipal services
+treatment plant sites
+industrial
+agricultural
+
+• Typical locations, activities and types of wastes
+usually generated at each of these sources are
+presented in Table 2.3.
+
+17
+
+Table 2.3 Sources of Solid Wastes Within a Community
+Source
+
+Typical Facilities, Activities,
+or Locations Where Wastes
+are Generated
+
+Types of Solid Wastes
+
+Residential
+
+Single family and multifamily
+detached dwellings, low-,
+medium-, and high-rise
+apartment, etc.
+
+Food wastes, paper, cardboard, plastics,
+textiles, leather, yard wastes, wood,
+glass, tin cans, aluminum, other metals,
+ashes, street leaves, special wastes
+(including bulky items, consumer
+electronics, white goods, yard wastes
+collected separately, batteries, oil, and
+tires), household hazardous wastes
+
+Commercial
+
+Stores, restaurants, markets,
+office building, hotels, motels,
+print shops, service stations, auto
+repair shops etc.
+
+Paper, cardboard, plastics, wood, food
+wastes, glass, metals, special wastes (see
+above), hazardous wastes, etc.
+
+Institutional
+
+Schools , hospitals, prisons,
+governmental centers
+
+As above in commercial
+
+Construction and
+Demolition
+
+New construction sites, road
+repair/renovation sites, razing of
+buildings, broken pavement
+
+Wood, steel, concrete, dirt, etc.
+18
+
+Table 2.3 Sources of Solid Wastes Within a Community (Cont.)
+Source
+Municipal services
+(excluding treatment
+facilities)
+
+Typical Facilities, Activities,
+or Locations Where Wastes
+are Generated
+Street cleaning, landscaping,
+catch basin cleaning, parks and
+beaches, other recreational areas
+
+Types of Solid Wastes
+Special wastes, rubbish, street
+sweepings, landscape and tree
+trimmings, catch basin debris,
+general wastes from parks, beaches,
+and recreational areas
+
+Treatment plant sites; Water, wastewater, and industrial
+municipal incinerators treatment processes, etc.
+
+Treatment plant wastes, principally
+composed of residual sludges
+
+Municipal solid waste
+
+All of the above
+
+All of the above
+
+Industrial
+
+Construction, fabrication, light
+and heavy manufacturing,
+refineries, chemical plants, power
+plants, demolition, etc.
+
+Industrial process wastes, scrap
+materials, etc. Non-industrial
+wastes including food wastes,
+rubbish, ashes, demolition and
+construction wastes, special wastes,
+hazardous wastes
+
+Agricultural
+
+Field and row crops, orchards,
+vineyards, dairies, feedlots, farms,
+etc.
+
+Spoiled food wastes, agricultural
+wastes, rubbish, hazardous wastes
+19
+
+2.2.2 Classification of Solid Wastes
+• The general classification and description of wastes
+generated at each of the sources is presented as
+follows:
+(i) Residential and Commercial Wastes
+
+• Solid wastes generated in the residential,
+commercial, and institutional parts of a community
+are grouped in two kinds:
+(1) Organic Fraction of Wastes – (Combustibles)
+(2) Inorganic Fraction of Wastes – ( Incombustibles)
+20
+
+(1) Organic Fraction of Wastes – (Combustibles)
+• The organic fraction of residential and commercial
+waste consists of materials such as:
+» Food waste (also called garbage)
+» Paper of all types
+» Cardboard (also called paperboard and
+corrugated paper)
+» Plastics of all types
+» Textiles
+» Rubber
+» Leather
+» Wood and yard wastes
+
+21
+
+(2) Inorganic Fraction of Wastes – (Incombustibles)
+• The inorganic fraction consists of items such as
+» Glass
+» Crockery
+» tin cans
+» Aluminum
+» ferrous metals
+» dirt
+
+Terms Used for Some Categories of Municipal Solid
+Wastes
+(a) Commingled Municipal Solid Wastes
+• If the waste components are not separated when discarded,
+then the mixture of these wastes is also known as
+commingled MSW.
+22
+
+(b) Putrescible Waste
+• Wastes that will decompose rapidly, especially in warm
+weather, are also known as putrescible waste.
+• The principal source of putrescible wastes is the handling,
+preparation, cooking, and eating of foods.
+• Often, decomposition will lead to the development of
+offensive odors and breeding of flies and other disease
+vectors.
+• Apart from the above mentioned categories of solid wastes
+found in residential and commercial areas, there are two
+more kinds of wastes generated at these sources:
+(c) Special Wastes
+(d) Hazardous Wastes
+
+23
+
+(c) Special Wastes
+• Special wastes from residential and commercial sources
+include:
+» Bulky Items: large worn-out or broken household,
+commercial, and industrial items such as
+furniture, lamps, bookcases, filing
+cabinets, and other similar items
+» Consumer worn-out, broken and other no longer
+Electronics:
+wanted items such as radios, stereos,
+and
+television sets
+» White
+Goods:
+
+large stoves, refrigerators, dishwaters,
+and clothes washers and dryers.
+
+Collected separately, white goods are
+usually dismantled for the recovery of
+specific materials (e.g. aluminum, etc.)
+
+24
+
+» Used
+The principal sources of batteries are
+Batteries:
+from households and automobiles and
+other vehicle serving facilities.
+Household batteries come in a variety of types,
+including alkaline, mercury, silver, zinc, nickel, and
+cadmium.
+The metals found in discarded batteries found in MSW
+can cause groundwater contamination through leachate
+from landfills.
+They can also be found in air emissions and ash from
+waste incineration activities.
+Many states in USA now prohibit the landfilling of
+household batteries.
+Automobiles use lead-acid batteries, each of which
+contains about 18 lbs of lead and a gallon of sulfuric25
+acid, both hazardous materials.
+
+» Used Oil:
+
+The principal source of used oil is from
+the servicing of automobiles and other
+moving vehicles.
+Waste oil placed in the same containers as
+other solid waste components tends to
+contaminate them and thus reduces their
+value as recycled materials.
+
+26
+
+» Rubber
+Tires:
+
+It was reported that in last decade, about
+230-240 million rubber tires were disposed
+of annually in landfills or kept in
+stockpiles in USA.
+Because tires do not compact well, their
+disposal in landfills is expensive and
+wasteful of space.
+Stockpiling of tires also poses serious
+environmental problems, e.g., large and
+difficult to extinguish fires.
+
+27
+
+(d) Hazardous Wastes
+•
+
+Wastes or combinations of wastes that pose substantial
+present or potential hazard to human health or other living
+organisms have been defined as hazardous wastes.
+
+(ii) Institutional Wastes
+•
+
+Institutional sources of solid wastes include:
+» Government centers
+» Schools
+» Prisons
+» Hospitals
+28
+
+• Excluding manufacturing wastes from prisons and medical
+wastes from hospitals, the solid wastes generated at above
+mentioned sources are quite similar to commingled MSW.
+
+(iii) Construction and Demolition Wastes
+• Wastes from construction, remodeling, and repairing of
+individual residences and commercial buildings, and other
+structures are classified as construction wastes.
+• The composition is variable and may include:
+»
+»
+»
+»
+»
+»
+»
+»
+
+dirt
+stones
+concrete
+bricks
+plaster
+lumber and plumbing
+heating
+electrical parts
+
+29
+
+• Wastes from razed buildings, broken-out streets, sidewalks,
+bridges, and other structures are classified as demolition
+wastes.
+• The composition of demolition wastes is similar to
+construction wastes, but may include broken glass, plastics,
+and reinforced steel.
+
+30
+
+(iv) Municipal Services Wastes
+• Community wastes resulting from the operation and
+maintenance of municipal facilities and the provision of
+municipal services, include:
+· street sweepings
+· road side litter
+· landscape and tree trimmings
+· dead animals
+· abandoned automobiles, etc.
+
+31
+
+(v) Treatment Plant Wastes and Other Residues
+• The solid and semisolid wastes from water, wastewater, and
+industrial waste treatment facilities are termed treatment
+plant wastes.
+• The specific characteristics of such wastes vary, depending
+on the nature of the treatment process.
+• Materials remaining from the combustion of wood, coal,
+coke, and other combustible wastes are categorized as
+ashes and residues.
+• These residues are normally composed of fine, powdery
+materials, cinders, clinkers, and small amounts of burned
+32
+and partially burned materials.
+
+• Glass, crockery, and various metals are also found in the
+residues from municipal incinerators.
+
+(vi) Industrial Solid Waste Excluding Process
+Wastes
+• Sources and types of solid waste generated at industrial sites
+are grouped according to their Standard Industrial
+classification (SIC).
+• SIC list excludes industrial process wastes and any
+hazardous wastes that may be generated at industrial
+facilities.
+
+33
+
+(vii) Agricultural Wastes
+• Wastes and residues resulting from diverse agricultural
+activities are collectively called agricultural wastes, and
+include wastes generate from:
+·
+
+planting and harvesting of crops
+
+·
+
+the production of milk
+
+·
+
+the production of animals for slaughter
+
+·
+
+the operations of feedlots
+
+34
+
+• At present, the disposal of these wastes is not the
+responsibility of municipalities.
+• However, the disposal of animal manures has become a
+critical problem, especially from feedlots and dairies.
+
+35
+
+2.3 Composition of MSW
+• The total solid wastes from a typical community in United
+States are composed of the waste materials identified in
+Table 2.4.
+• As noted in Table 2.4, the residential and commercial
+portion makes up about 50 to 75 percent of the total MSW
+generated in a community.
+• The actual percentage distribution will depend on:
+(1) the extent of the construction and demolition activities,
+(2) the extent of the municipal services provided, and
+(3) the types of water and wastewater treatment processes
+that are used.
+36
+
+Table 2.4 Distribution of all Components of MSW Generated in a Typical Community in USA
+
+Waste Category
+Residential and Commercial, Excluding Special and Hazardous Wastes
+
+Percent by Weight
+Range
+
+Typical
+
+50-75
+
+62.0
+
+3-12
+
+5.0
+
+0.01-1.0
+
+0.1
+
+3-5
+
+3.4
+
+8-20
+
+14.0
+
+Street and alley cleanings
+
+2-5
+
+3.8
+
+Tree and landscaping
+
+2-5
+
+3.0
+
+1.5-3
+
+2.0
+
+0.5-1.2
+
+0.7
+
+3-8
+
+6.0
+
+Special (bulky items, consumer electronics, white goods, yard
+Wastes collected separately, batteries, oil, and tires)
+Hazardous
+Institutional
+Construction and Demolition
+Municipal Services
+
+Parks and recreational areas
+Catch basin
+Treatment Plant Sludges
+Total
+
+100.0
+
+• The wide variation in the special wastes category (3 to 12
+percent) is due to the fact that in many communities yard
+wastes are collected separately.
+• The percentage of construction and demolition wastes varies
+widely depending on the part of the country and the general
+health of the local, state, and national economy.
+
+38
+
+Distribution of Individual Waste Components in USA
+• In order to formulate waste collection plans, not only
+the data on quantity (generation rates) but also the
+characteristics of the solid wastes is essential.
+• Information and data on the physical composition of
+solid wastes are important:
+» in the selection and operation of equipment and
+facilities,
+» in assessing the feasibility of resource and energy
+recovery, and
+» in the analysis and design of landfill disposal
+facilities.
+39
+
+• To evaluate the waste composition and characteristics,
+mainly two approaches are practiced: physical and chemical
+analysis.
+• Physical parameters to be determined are:
+» refuse density (mass/volume, kg/m3)
+» moisture content (% water),
+» calorific value (Kcal/kg) ,
+» and other components (% mass faction)
+e.g. paper, glass, metal, plastics, textile, wood/grass,
+food waste, ash/soil
+» Combustibles (% mass faction)
+» Non-combustibles (% mass faction)
+40
+
+Residential Portion of MSW
+• Components that typically make up the residential portion
+of MSW in USA, excluding special and hazardous wastes,
+and their relative distribution are presented in Table 2.5.
+• Table 2.6 shows the average composition of residential
+MSW as discarded in USA during 1970 – 2000.
+• Figure 2.1 shows the composition of MSW in USA in 2008.
+• The residential MSW (including waste from apartments and
+houses) was estimated to be 55 to 65 percent of total MSW
+generation.
+• Waste from commercial and institutional locations, such as
+schools, hospitals, and businesses, amounted to 35 to 45
+percent.
+41
+
+Table 2.5 Typical physical composition of residential MSW in
+USA excluding recycled materials and food wastes
+discharged with wastewater (1990)
+Percent by Weight
+Component
+
+United States
+Range
+
+Typical
+
+Packaging
+materials
+
+Davis, California
+
+Food wastes
+
+6-18
+
+9.0
+
+-
+
+6.0
+
+Paper
+
+25-40
+
+34.0
+
+50-60
+
+33.1
+
+Cardboard
+
+3-10
+
+6.0
+
+12-16
+
+7.9
+
+Plastics
+
+4-10
+
+7.0
+
+-
+
+10.7
+
+Textiles
+
+0-4
+
+2.0
+
+-
+
+2.4
+
+Rubber
+
+0-2
+
+0.5
+
+-
+
+2.5
+
+Leather
+
+0-2
+
+0.5
+
+-
+
+0.1
+
+Yard wastes
+
+5-20
+
+18.5
+
+-
+
+17.7
+
+Wood
+
+1-4
+
+2.0
+
+4-8
+
+5.0
+
+Misc. organics
+
+-
+
+-
+
+-
+
+0.4
+
+Organic
+
+42
+
+Table 2.5 Typical physical composition of residential MSW in
+USA excluding recycled materials and food wastes
+discharged with wastewater (1990) (Contd.)
+Percent by Weight
+Component
+
+United States
+Range
+
+Typical
+
+Packaging
+materials
+
+Davis, California
+
+Glass
+
+4-12
+
+8.0
+
+20-30
+
+5.8
+
+Tin cans
+
+2-8
+
+6.0
+
+6-8
+
+3.9
+
+Aluminum
+
+0-1
+
+0.5
+
+2-4
+
+0.4
+
+Other metal
+
+1-4
+
+3.0
+
+-
+
+3.6
+
+Dirt, ash, etc.
+
+0-6
+
+3.0
+
+-
+
+0.5
+
+Inorganic
+
+Total
+
+100.0
+
+100.0
+43
+
+Table 2.6 Average Composition of Residential MSW
+as Discarded in USA during 1970 - 2000
+Percent by Weight (Dry Basis)
+Composition
+1970
+
+1975
+
+1980
+
+1990
+
+2000
+
+Paper
+
+37.4
+
+39.2
+
+40.1
+
+43.4
+
+48.0
+
+Yard wastes
+
+13.9
+
+13.3
+
+12.9
+
+12.3
+
+11.9
+
+Food waste
+
+20.0
+
+17.8
+
+16.1
+
+14.0
+
+12.1
+
+Glass
+
+9.0
+
+9.9
+
+10.2
+
+9.5
+
+8.1
+
+Metals
+
+8.4
+
+8.6
+
+8.9
+
+8.6
+
+7.1
+
+Wood
+
+3.1
+
+2.7
+
+2.4
+
+2.0
+
+1.6
+
+Textiles
+
+2.2
+
+2.3
+
+2.3
+
+2.7
+
+3.1
+
+Leather & Rubber
+
+1.2
+
+1.2
+
+1.2
+
+1.2
+
+1.3
+
+Plastics
+
+1.4
+
+2.1
+
+3.0
+
+3.9
+
+4.7
+
+Miscellaneous
+
+3.4
+
+3.0
+
+2.7
+
+2.4
+
+2.1
+44
+
+Figure 2.1 Composition of Total MSW Generation (by Material) in 2008
+250 Million Tons (Before Recycling)
+
+45
+
+Distribution of Waste Components
+• For the purpose of comparison, the percentage distribution
+of the materials used for packaging is reported in Column 3
+of Table 2.5.
+• In 1990 packaging wastes was estimated to account for
+approximately one-third of the residential and commercial
+MSW in USA at that time (20 years ago).
+• The values given in Table 2.5 for food waste, plastics, and
+yard wastes have considerably varied from the values given
+in the corresponding table in the earlier published literature.
+
+46
+
+• The differences are largely due to
+(1) improved food processing techniques and the increased
+use of kitchen food waste grinders,
+(2) the increased use of plastics for food packaging and
+other packaging, and
+(3) the fact that burning of yard wastes is no longer allowed
+in most communities in USA.
+
+47
+
+Residential Portion of MSW in Other Countries
+• For the purposes of comparison, typical data on the
+distribution of the components in residential MSW from
+other countries are presented in Table 2.7.
+• In comparing the data presented in Tables 2.5 and 2.7, note
+the high percentage of food waste in less-developed
+countries.
+• The percentage of food wastes is high because most
+vegetables and fruits are not pre-trimmed, there are
+essentially no kitchen food waste grinders, and the amounts
+of the other components are quite small.
+48
+
+Table 2.7 Typical distribution of components in residential MSW for low,
+middle, and upper-income countries excluding recycled materials
+Component
+
+Low-income
+Countries
+
+Middle-income
+Countries
+
+Upper-income
+Countries
+
+Food wasted
+
+40-85
+
+20-65
+
+6-30
+
+Paper
+
+1-10
+
+8-30
+
+20-45
+
+Organic
+
+Cardboard
+
+5-15
+
+Plastics
+
+1-5
+
+2-6
+
+2-8
+
+Textiles
+
+1-5
+
+2-10
+
+2-6
+
+Rubber
+Leather
+
+0-2
+1-5
+
+1-4
+
+Yard wastes
+Wood
+Misc.
+organics
+
+0-2
+10-20
+
+1-5
+
+1-10
+
+1-4
+
+-
+
+-
+
+49
+
+Table 2.7 Typical distribution of components in residential MSW for low,
+middle, and upper-income countries excluding recycled materials
+(Contd.)
+Component
+
+Low-income
+Countries
+
+Middle-income
+Countries
+
+Upper-income
+Countries
+
+1-10
+
+1-10
+
+4-12
+
+Inorganic
+Glass
+Tin cans
+Aluminum
+
+2-8
+1-5
+
+1-5
+
+Other metal
+Dirt, ash, etc.
+
+0-1
+1-4
+
+1-40
+
+1-30
+
+0-10
+
+50
+
+• Quantities of wastes in developing countries are invariably
+lower than in the developed world due to:
+» lower general prosperity
+» lower level of consumption of the population, as well as
+» extensive scavenging and salvation of reusable material
+before and during the waste collection and disposal
+system.
+
+• However, densities of waste in developing nations is much
+higher due to the less amount of paper, packaging material,
+plastic, and glass and hence a much greater concentration of
+puttrescible matter.
+
+51
+
+• Tables 2.8 & 2.9 present an overall view of the solid waste
+compositions in some Asian cities about 2 decades ago.
+• An overview of Table 2.8 suggests a wide variation in the
+municipal solid waste composition among the various cities
+of the Asian countries or even among different districts and
+income groups of the same city.
+• However, certain trends are apparent as discussed here.
+• Municipal solid waste in these Asian countries are generally
+dense with the exception of newly industrialized nations.
+• The refuse density ranges from about 180 kg/m3 for
+Singapore and Japan to 400‑600 kg/m3 for less
+industrialized and poor countries.
+52
+
+Table 2.8 Composition of Municipal Solid Waste in Some
+Asian Countries
+
+53
+
+Table 2.9 Generation Rates and Characteristics of Solid Waste in Selected
+Asian Cities
+Bombay
+
+Manila
+
+Bangkok
+
+Kuala
+Lumpur
+
+Singapore
+
+Jakarta
+
+Beijing
+
+Tokyo
+
+103 tons/year
+
+1,150
+
+1,380
+
+1,800
+
+730
+
+2,204
+
+1,800
+
+3,500
+
+4,491
+
+Kg/cap/day
+
+0.55
+
+0.50
+
+0.88
+
+1.29
+
+2.00
+
+0.75
+
+1.59
+
+2.80
+
+Paper, cardboard
+
+10.0
+
+10.6
+
+13.9
+
+11.7
+
+28.3
+
+25.0
+
+7.8
+
+42.0
+
+Glass
+
+0.2
+
+2.3
+
+20.0
+
+2.5
+
+5.7
+
+5.0
+
+2.4
+
+1.2
+
+Metals
+
+0.2
+
+3.6
+
+1.8
+
+6.4
+
+4.8
+
+4.0
+
+1.1
+
+1.2
+
+Plastics
+
+2.0
+
+9.3
+
+11.0
+
+7.0
+
+11.8
+
+13.0
+
+2.8
+
+8.5
+
+Textile
+
+3.6
+
+4.8
+
+6.9
+
+1.3
+
+3.0
+
+3.0
+
+1.4
+
+3.8
+
+16.0
+
+30.6
+
+35.6
+
+28.9
+
+52.0
+
+50.0
+
+15.5
+
+56.7
+
+Wood/grass
+
+20.0
+
+10.8
+
+14.9
+
+6.5
+
+-
+
+7.0
+
+2.6
+
+4.7
+
+Food waste
+
+20.0
+
+31.8
+
+36.5
+
+63.7
+
+44.0
+
+28.0
+
+29.2
+
+32.7
+
+Other
+
+44.0
+
+26.8
+
+13.0
+
+0.9
+
+4.0
+
+15.0
+
+52.7
+
+5.6
+
+Compostable
+total
+
+84.0
+
+69.4
+
+64.4
+
+71.1
+
+48.0
+
+50.0
+
+84.5
+
+5443.3
+
+Waste generation
+
+Composition
+(% by weight)
+
+Non-compostable
+total
+
+Table 2.9 Generation Rates and Characteristics of Solid Waste in Selected
+Asian Cities (Contd.)
+Properties
+
+Moisture
+content
+(% by wt)
+
+Bombay
+
+Manila
+
+Bangkok
+
+Kuala
+Lumpr
+
+Singapor
+e
+
+Jakart
+a
+
+Beijing
+
+Tokyo
+
+40.0
+
+42.6
+
+59.1
+
+50.2
+
+53.4
+
+-
+
+36.4
+
+-
+
+22.0
+
+33.8
+
+35.7
+
+41.4
+
+32.8
+
+-
+
+15.3
+
+-
+
+38.0
+
+23.6
+
+52.0
+
+8.4
+
+13.8
+
+-
+
+48.2
+
+-
+
+860100
+
+1,468.
+0
+
+1,130.0
+
+750.0
+
+1,388.0
+
+-
+
+500-600
+
+-
+
+-
+
+233
+
+-
+
+-
+
+-
+
+-
+
+-
+
+55
+
+Combustible
+(% by wt)
+Noncombustible
+(% by wt)
+Calorific value
+Kcal/kg
+Density kg/m3
+
+• The waste from these countries contain a larger amount of
+organic fraction and lesser amount of paper, glass, metals,
+and plastics.
+• Organic waste consisting mainly of food waste and
+puttrescible material is the major component, particularly in
+Sri Lanka and Malaysia.
+• The proportion of waste paper is on the lower side except in
+Japan, Singapore, and Hong Kong.
+• This clearly indicates higher packaging material in more
+affluent nations.
+• Metals, glass, plastics, textiles, and wood fractions of the
+municipal waste in these Asian countries account for only a
+56
+small fraction of the total amount of solid wastes generated.
+
+• With an increase in the standard of living of a country,
+there is a trend towards a higher use of plastics.
+• Hong Kong's municipal waste has 20.1% of waste plastics,
+the highest among the Asian countries.
+• The waste metals are normally higher in the countries with
+higher degree of industrialization.
+• Much of the metals in recoverable form is recycled and
+reused, and the metal content of the waste is essentially in
+the form of non‑recoverable metal pieces, nails etc.
+• The common practice of including street sweepings in the
+municipal solid waste increases the ash/soil, stone and
+other inert contents in the waste of India and China.
+57
+
+• The higher inert and ash content in turn is reflected in the
+comparatively higher refuse densities.
+• The larger organic fraction, higher moisture content, and
+higher inert contents give the waste a lower calorific value.
+
+58
+
+2.4 Determination of the Composition of MSW in
+the Field
+• Because of the heterogeneous nature of solid wastes,
+determination of the composition is not an easy task.
+• Strict statistical procedures are difficult, if not impossible,
+to implement.
+• For this reason, more generalized field procedures, based on
+common sense and random sampling techniques, have
+evolved for determining composition.
+
+59
+
+Residential MSW
+• The procedure for residential MSW involves unloading and
+analyzing a quantity of residential waste in a controlled area
+of a disposal site that is isolated from winds and separate
+from other operations.
+• A representative residential sample might be a truckload
+resulting from a typical weekday collection route in a
+residential area.
+• A mixed sample from an incinerator storage pit or the
+discharge pit of a shredder would also be representative.
+• Common sense is important in selecting the load to be
+sampled.
+60
+
+• For example, a load containing the weekly accumulation
+of yard wastes (leaves) during autumn would not be
+typical.
+• To ensure that the results obtained are representative, a
+large enough sample must be examined.
+• 1700 lb taken from the same waste load.
+• It has been found that measurements made on a sample
+size of about 200 lb vary insignificantly from
+measurements made on samples of up to
+• To obtain a sample for analysis, the load is first quartered.
+61
+
+• One part is then selected for additional quartering until a
+sample size of about 200 lb is obtained. It is important to
+maintain the integrity of each selected quarter, regardless of
+the odor or physical decay, and to make sure that all the
+components are measured.
+• Only in this way can some degree of randomness and
+unbiased selection be maintained.
+
+62
+
+Commercial and Industrial MSW
+• The field procedure for component identification for
+commercial and non process industrial solid wasted
+involves the analysis of representative waste samples taken
+directly from the source, not from a mixed waste load in a
+collection vehicle.
+• Because commercial and industrial sources are so variable,
+statistically valid sampling is seldom possible.
+• Estimation of the distribution of waste components and
+quantities for these activities remains an art form.
+
+63
+
+Table 2.10 Average Composition of Residential MSW
+as Discarded in USA during 1970 - 2008
+Percent by Weight (Dry Basis)
+Composition
+1970
+
+1980
+
+1990
+
+2000
+
+2008
+
+Paper
+
+37.4
+
+40.1
+
+43.4
+
+48.0
+
+31.0
+
+Yard wastes
+
+13.9
+
+12.9
+
+12.3
+
+11.9
+
+13.2
+
+Food waste
+
+20.0
+
+16.1
+
+14.0
+
+12.1
+
+12.7
+
+Glass
+
+9.0
+
+10.2
+
+9.5
+
+8.1
+
+4.9
+
+Metals
+
+8.4
+
+8.9
+
+8.6
+
+7.1
+
+8.4
+
+Wood
+
+3.1
+
+2.4
+
+2.0
+
+1.6
+
+2.2
+
+Textiles
+
+2.2
+
+2.3
+
+2.7
+
+3.1
+
+3.9
+
+Leather & Rubber
+
+1.2
+
+1.2
+
+1.2
+
+1.3
+
+1.8
+
+Plastics
+
+1.4
+
+3.0
+
+3.9
+
+4.7
+
+12.0
+
+Miscellaneous
+
+3.4
+
+2.7
+
+2.4
+
+2.1
+
+3.3
+64
+
+

@@ -1,0 +1,83 @@
+package sourcePackage;
+
+import java.util.Collections;
+import java.util.LinkedList;
+import java.util.Map;
+
+
+public class MyQueue {
+	public static void main(String[] args){
+		System.out.println("This is a test queue");
+	
+		LinkedList<QueueItem> queue = new LinkedList<QueueItem>();
+		
+		int[] costs = {13, 2, 1, 10, 3, 18, 20};
+		String[] name ={"pizzhut", "resturent", "medicine", "dry food", "confectionary", "fist", "telecom"};
+		
+		MyQueue testQueue = new MyQueue();
+
+		queue = testQueue.generateQueue(costs, name);
+		
+		testQueue.sortPriorityQueue(queue);
+		testQueue.printQueue(queue);		
+	}
+	public static LinkedList<QueueItem> getUnsortedQueue(String[] adjacentNodes, Map edges, LinkedList<QueueItem> items){
+		QueueItem queueitem = new QueueItem();
+		queueitem = items.getFirst();
+		String currentNode = getCurrentNode(queueitem);
+		for(int j = 0; j < adjacentNodes.length; j++){
+			int pathCost = 0;
+			String[] path = new String[queueitem.getPath().length + 1];
+			
+		    String[] oldArray = queueitem.getPath();
+		    for(int i=0; i < oldArray.length; i++){
+		    	path[i] = oldArray[i];
+		    }
+		    
+			if(edges.containsKey(currentNode+"_to_"+adjacentNodes[j])){ 				
+				pathCost =  (int) edges.get(currentNode+"_to_"+adjacentNodes[j]) + queueitem.getCost();				
+				path[path.length - 1] = adjacentNodes[j];
+			}
+			QueueItem item = new QueueItem();
+			item.setPath(path);
+			item.setCost(pathCost);
+			items.add(item);
+		}
+		return items;
+	}
+	
+	public LinkedList<QueueItem> generateQueue(int[] cost, String[] name){
+		LinkedList<QueueItem> queue = new LinkedList<QueueItem>();
+		for(int i=0; i<cost.length; i++){
+			QueueItem item = new QueueItem();
+			item.setCost(cost[i]);
+			item.setPath(name);
+			queue.add(item);
+		}
+		return queue;
+	}
+	
+	public LinkedList<QueueItem> sortPriorityQueue(LinkedList<QueueItem> items){
+		LinkedList<QueueItem> sortedList = items;
+		Collections.sort(sortedList);
+		return sortedList;
+	}
+	
+	public void printQueue(LinkedList<QueueItem> queue){
+	    for(QueueItem item: queue){
+			System.out.println("Shop Name "+item.getPath()+" Cost "+item.getCost());
+		}
+	}
+	public static void printTheQueue(LinkedList<QueueItem> items, int iterationNo){
+		System.out.println("Iteration No "+iterationNo);
+		for(QueueItem item : items){
+			GraphSearch.printArray(item.getPath());
+			System.out.print("{Cost=");
+			System.out.print(item.getCost());
+			System.out.print("}");
+			System.out.println(" ");
+		}
+		System.out.println();		
+	}
+	
+}

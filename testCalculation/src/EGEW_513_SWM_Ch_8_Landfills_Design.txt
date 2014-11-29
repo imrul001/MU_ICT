@@ -1,0 +1,1041 @@
+EGEW 513
+Solid and Hazardous Waste
+Management
+8. Landfills Design & Operation
+Dr. Ranjna Jindal
+
+Lecture Outline
+ Landfill Planning, Design, and Operation
+
+
+
+
+
+
+Landfill Siting Considerations
+Preparation of the Site for Landfilling
+Landfill Layout and Design
+Landfill Operations and Management
+What Happens to Trash in a Landfill?
+
+Reactions Occurring in Landfills
+
+
+
+
+
+
+The Management of Landfill Gases
+The Management of Leachate
+Environmental Monitoring
+Postclosure Care
+
+ Concerns with the Landfilling of Solid Wastes
+
+8.1 Landfill Planning, Design, and Operation
+ For a landfill to be built, certain steps have to be followed.
+ In most parts of the world, there are regulations that govern
+where a landfill can be placed and how it can operate.
+ The whole process begins with someone proposing the
+landfill.
+ In many countries, taking care of trash and building
+landfills are local government responsibilities.
+
+ Before a city or other authority can build a landfill, an
+environmental impact study must be done on the
+proposed site to determine:
+
+
+
+
+
+
+
+the area of land necessary for the landfill
+the composition of the underlying soil and bedrock
+the flow of surface water over the site
+the impact of the proposed landfill on the local
+environment and wildlife
+the historical or archaeological value of the proposed site
+
+ Once the environmental impact study has been completed,
+permits must be obtained from the local, state and
+federal governments.
+
+ In addition, money will have to be raised from taxes or
+municipal bonds to build and operate the landfill.
+ First, access roads to the landfill site must be built if they
+do not already exist.
+ These roads will be used by construction equipment,
+sanitation services and the general public.
+ After roads have been built, then the landfill can be
+excavated.
+ The principal elements that must be considered in the
+planning, design, and operation of landfills include:
+
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+
+landfill sitting
+preparation of the site for landfilling
+landfill layout and design;
+landfill operations and management;
+the reactions occurring in landfills:
+the management of landfill gases;
+the management of leachate;
+environmental monitoring; and
+landfill closure and post-closure care.
+
+ The definition sketch for landfill operations and processes is
+presented in Fig. 8.1.
+
+6
+
+Figure 8.1 Definition sketch for landfill operations and processes
+7
+
+8.2 Landfill Siting Considerations
+ One of the most difficult tasks faced by most communities
+in implementing an integrated solid waste management
+program is the siting of new landfills.
+ Factors that must be considered in evaluating potential
+sites for the long-term disposal of solid waste include:
+(1) haul distance,
+(2) location restrictions,
+(3) available land area,
+(4) site access,
+(5) soil conditions and topography,
+(6) climatological conditions,
+(7) surface water hydrology,
+(8) geologic and hydrogeologic conditions,
+(9) local environmental conditions, and
+(10) potential ultimate uses for the completed site.
+
+ Final selection of a disposal site usually is based on the
+results of:
+
+
+
+
+a detailed site survey,
+engineering design and cost studies, and
+an environmental impact assessment (EIA).
+
+(1) Haul Distance
+ The haul distance is one of the important variables in the
+selection of a disposal site.
+ The length of the haul can significantly affect the overall
+design and operation of the waste management system.
+ Although minimum haul distances are desirable, other
+factors must also be considered.
+
+ Because the siting of landfills is usually determined by
+environmental and political concerns, long-distance
+hauling, is now becoming more routine.
+(2) Location Restrictions
+ Location restrictions refer to where landfills can be
+located.
+ Restrictions now apply with respect to siting landfills:
+
+
+
+
+
+
+
+near airports,
+in floodplains,
+in wetlands,
+in areas with known faults,
+in seismic impact zones, and
+in unstable areas
+
+ All current restrictions must be reviewed carefully during
+the preliminary siting process to avoid spending time and
+money evaluating a site that will not conform with the
+regulatory requirements.
+(3) Available Land Area
+ In selecting potential land disposal sites, it is important to
+ensure that sufficient land area is available.
+ Although there are no fixed rules concerning the area
+required, it is desirable to have sufficient area, including
+an adequate buffer zone, to operate for at least five years
+at a given site.
+
+ For shorter periods, the disposal operation becomes
+considerably more expensive, especially with respect to site
+preparation, provision of auxiliary facilities such as
+platform scales and storage facilities, and completion of the
+final cover.
+ In the initial assessment of potential disposal sites, it is
+important to project the extent of the waste diversion that is
+likely to occur in the future and determine the impact of that
+diversion on the quantity and condition of the residual
+materials to be disposed of.
+ For preliminary planning purposes, the amount of land area
+required can be estimated as illustrated in Example 8.1.
+
+Example 8.1 Estimation of Required Landfill Area
+Estimate the required landfill area for a community with a
+population of 31,000. Assume that the following conditions apply:
+1. Solid waste generation rate
+2. Compacted specific weight
+of solid wastes in landfill
+3. Average depth of compacted
+solid wastes
+
+=
+=
+
+6.4 lb/capita/d
+800 lb/yd3
+
+=
+
+20 ft
+
+Solution
+1. Determine the daily solid wastes generation rate in tons per
+day.
+Generation rate =
+
+(31,000 people) (6.4 lb / capita d )
+2200 lb / ton
+
+= 90.182 ton/d (90,182 kg/d)
+
+2. Computationally, the required area is determined as follows:
+Volume required/d
+
+=90.182 ton / d 2200 lb / ton
+800 lb / yd 3
+
+= 248 yd3/d (190 m3/d)
+Area required/yr
+
+(248 yd 3 / d )(365 d / yr ) (27 ft 3 / yd 3 )
+=
+(20 ft )(43,560 ft 2 / acre)
+
+= 2.81 acre/yr (1.14
+hectare/yr)
+Comment. The actual site requirements will be greater than the value
+computed because additional land is required for a buffer zone, office and
+service buildings, access roads, utility access, and so on. Typically, this
+allowance varies from 20 to 40 percent. A more rigorous approach to the
+determination of the required landfill area involves consideration of the
+contours of the completed landfill and the effects of gas production and
+overburden compaction .
+
+(4) Site Access
+ As the number of operating landfills continues to decrease,
+new landfills that are being sited are increasing in size.
+ Because land areas of suitable size are often not near
+existing developed roadways and cities, construction of
+access roadways and the use of long haul equipment has
+become a fact of life and an important part of landfill
+siting.
+ Rail lines often pass nearby remote sites that are suitable
+for use as landfills; thus, there is renewed interest in the
+use of rail haul for transporting wastes to these remote
+sites.
+
+(5) Soil Conditions and Topography
+ Because it is necessary to cover the solid wastes placed in
+the landfill each day and to provide a final cover layer
+after the landfilling operation is completed, data must be
+obtained on the amounts and characteristics of the soils in
+the area.
+ If the soil under the proposed landfill area is to be used for
+cover material, data must be developed on its geologic and
+hydrogeologic characteristics.
+ If cover material is to be obtained from a borrow pit, test
+borings will be needed to characterize the material.
+
+ The local topography must also be considered because it
+will affect:
+
+
+
+
+the type of landfill operation to be used,
+the equipment requirements, and
+the extent of work necessary to make the site usable.
+
+ If suitable cover material is limited or an effort is being
+made to extend the useful life of the landfill, it may be
+necessary to consider the use of compost or other
+materials for intermediate cover.
+
+(6) Climatologic Conditions
+ Local weather conditions must also be considered in the
+evaluation of potential sites.
+ In many locations, winter conditions will affect access to
+the site.
+ Wet weather may necessitate the use of separate landfill
+areas.
+ Where freezing is severe, landfill cover material must be
+available in stockpiles when excavation is impracticable.
+ Wind strength and wind patterns must also be considered
+carefully.
+ To avoid blowing or flying debris, windbreaks must be
+established.
+
+(7) Surface Water Hydrology
+ The local surface water hydrology of the area is important
+in establishing the existing natural drainage and runoff
+characteristics that must be considered.
+ Other conditions of flooding (e.g., the limits of the 100year flood) must also be identified.
+ Because mitigation measures must be developed to divert
+surface runoff from the landfill site, planners must take
+great care in defining existing and intermittent flow
+channels and the area and characteristics of the
+contributing watershed.
+
+(8) Geologic and Hydrogeologic Conditions
+ Geologic and hydrogeologic conditions are perhaps the
+most important factors in establishing the environmental
+suitability of the area for a landfill site.
+ Data on these factors are required to assess the pollution
+potential of the proposed site and to establish what must
+be done to the site to ensure that the movement of leachate
+or gases from the landfill will not impair the quality of
+local groundwater or contaminate other subsurface or
+bedrock aquifers.
+ In the preliminary assessment of alternative sites, it may
+be possible to use U.S. Geological Survey maps and state
+or local geologic information.
+ Geologic drilling logs of nearby wells can also be used for
+a preliminary assessment.
+
+(9) Local Environmental Conditions
+ Although it has been possible to build and operate landfill
+sites in close proximity to both residential and industrial
+developments, they must be operated very carefully if they
+are to be environmentally acceptable with respect to:
+
+
+
+
+
+
+
+
+
+
+traffic,
+noise,
+odor,
+dust,
+airborne debris,
+visual impact,
+vector control,
+hazards to health, and
+property values.
+
+ To minimize the impact of landfilling operations, landfills
+are now sited in more remote locations where adequate
+
+(10) Ultimate Use for Completed Landfills
+ One of the advantages of a landfill is that, once it is
+completed, a sizable area of land becomes available for
+other purposes.
+ Because the ultimate use affects the design and operation
+of the landfill, this issue must be resolved before the
+layout and design of the landfill, is begun.
+ Choices for the ultimate use of completed landfills are
+becoming more limited by state and federal regulations
+dealing with landfill closure and post closure maintenance.
+ If the completed landfill is to be used for some municipal
+function, a staged planting program should be initiated and
+continued as portions of the landfill are completed.
+
+8.3 Preparation of the Site for Landfilling
+ The first step in the process involves the preparation of the
+site for landfill construction.
+ Existing site drainage must be modified to route any runoff
+away from the intended landfill area.
+ Rerouting of drainage is particularly important for ravine
+landfills where a significant watershed may drain through
+the site.
+ In addition, drainage of the landfill area itself must be
+modified to route water away from the initial fill area.
+ Other site preparation tasks include construction of access
+roads and weighing facilities, and installation of fences.
+
+8.4 Landfill Layout and Design
+ The next step in the development of a landfill is the
+excavation and preparation of the landfill bottom and
+subsurface sides.
+ Modern landfills typically are constructed in sections.
+ Working by sections allows only a small part of the
+unprotected landfill surface to be exposed to precipitation at
+any time.
+ In addition, excavations are carried out over time, rather
+than preparing the entire landfill bottom at once.
+ Excavated material can be stockpiled on unexcavated soil
+near the active area and the problem of precipitation
+collecting in the excavation is minimized.
+
+ Where the entire bottom of the landfill is lined at once,
+provision must be made to remove stormwater runoff from
+the portion of the landfill that is not being used.
+ To minimize costs, it is desirable to obtain cover materials
+from the landfill site whenever possible.
+ The initial working area of the landfill is excavated to the
+design depth, and the excavated material stockpiled for later
+use.
+ Vadose zone (zone between ground surface and permanent
+groundwater) and groundwater monitoring equipment is
+installed before the landfill liner is laid down.
+ The landfill bottom is shaped to provide drainage of
+leachate, and a low-permeability liner is installed.
+
+ Leachate collection and extraction facilities are placed
+within or on top of the liner.
+ Typically, the liner extends up the excavated walls of the
+landfill.
+ Horizontal gas recovery trenches may be installed at the
+bottom of the landfill, particularly if emissions of volatile
+organic compounds (VOCs) from the newly placed waste
+is expected to be a problem.
+ To minimize the release of VOCs, a vacuum is applied and
+air is drawn through the completed portions of the landfill,
+ The gas that is removed must be burned under controlled
+conditions to destroy the VOCs.
+
+ Before the fill operation begins, a soil berm (heap or pile)
+is constructed at the downwind side of the planned fill
+area.
+ The berm serves as a windbreak to control blowing
+materials and as a face against which the waste can be
+compacted.
+ For excavated landfills, the wall of the excavation usually
+serves as the initial compaction face.
+Landfill Design
+ A landfill's basic design parameter is capacity.
+ It depends upon the area covered, the depth of the waste,
+and the ratio of waste to soil or synthetic cover.
+ The air space within the landfill is the volume available
+into which solid waste and cover may be placed.
+
+ The tonnage of solid waste which can be landfilled in a
+given air space will increase as:
+ the quantity of soil cover is reduced by:
+better construction practices or
+the substitution of synthetic materials, and
+
+ the compaction of the solid waste is increased.
+ Waste-to-soil ratios of 4-to-1 are common.
+ Solid waste delivered to the landfill will have a density of
+260 to 350 kg/m3.
+ If suitable compaction equipment is employed, this waste
+can be compacted to a density of 470 to 830 kg/m3 as in
+
+8.5 Landfill Operations and Management
+The Placement of Wastes
+ Once the landfill site has been prepared, the next step in
+the process involves the actual placement of waste material
+(Figure 8.2).
+ The waste is placed in cells beginning along the
+compaction face, continuing outward and upward from the
+face.
+ The waste deposited in each operating period, usually one
+day, forms an individual cell.
+ Wastes deposited by the collection and transfer vehicles are
+spread out in 18 to 24 “ (45 to 60 cm) layers and
+compacted.
+
+Figure 8.2 Solid wastes delivery at a landfill site
+
+ Typical cell heights vary from 8 to 12 ft (2.4 to 3.6 m).
+ The length of the working face varies with the site
+conditions and the size of the operation.
+ The working face is the area of a landfill where solid waste
+is being unloaded, placed and compacted during a given
+operating period.
+ The width of a cell varies from 10 to 30 ft (3 to 9 m), again
+depending on the design and capacity of the landfill.
+ All exposed faces of the cell are covered with a thin layer
+of soil (6 to 12 “ i.e., 15 to 30 cm) or other suitable
+material at the end of each operating period.
+
+ After one or more lifts have been placed, horizontal gas
+recovery trenches can be excavated in the completed
+surface.
+ The excavated trenches are filled with gravel, and
+perforated plastic pipes are installed in the trenches.
+ Landfill gas is extracted through the pipes as the gas is
+produced.
+ Successive lifts are placed on top of one another until the
+final design grade is reached.
+ Depending on the depth of the landfill, additional leachate
+collection facilities may be placed in successive lifts.
+ A cover layer is applied to the completed landfill section.
+
+ The final cover is designed to minimize infiltration of
+precipitation and to route drainage away from the active
+section of the landfill.
+ The cover is landscaped to control erosion.
+ Vertical gas extraction wells may be installed at this time
+through the completed landfill surface.
+ The gas extraction system is tied together and the extracted
+gas may be flared or routed to energy recovery facilities as
+appropriate.
+ Additional sections of the landfill are constructed outward
+from the completed sections, repeating the construction
+steps outlined above.
+
+ As organic materials deposited within the landfill
+decompose, completed sections may settle.
+ Landfill construction activities must include refilling and
+repairing of settled landfill surfaces to maintain the
+desired final grade and drainage.
+
+8.6 What Happens to Trash in a Landfill?
+ Trash put in a landfill will stay there for a very long time.
+ Inside a truly sanitary landfill, there is little oxygen and
+little moisture.
+ Under these conditions, trash does not break down very
+rapidly.
+ In fact, when old landfills have been excavated or
+sampled, 40-year-old newspapers have been found with
+easily readable print.
+ Landfills are not designed to break down trash, merely to
+bury it.
+ When a landfill closes, the site, especially the
+groundwater, must be monitored and maintained for up to
+30 years!
+
+ A landfill's design life extends many years beyond the time
+when it is closed.
+ Waste stabilization begins shortly after it is placed in the
+landfill, but will not be completed until years after closure.
+ Care must be exercised to ensure that an environmental
+problem does not develop during operation or after closure.
+ Careful design, construction, and operation can minimize
+the potential for problems arising at a landfill.
+
+Changes in Waste Properties
+Reactions Occurring in Landfills
+ After solid wastes are deposited in a landfill, physical,
+chemical, and biological processes modify the waste.
+ Solid wastes placed in a sanitary landfill undergo a
+number of simultaneous and interrelated biological,
+chemical, and physical changes.
+
+Physical Reactions
+ Initial physical changes are compression as the waste is
+crushed by the landfill equipment, with additional
+compaction occurring as more wastes and soil are
+deposited into the landfill.
+
+ After the initial period of compaction, landfill settlement
+continues slowly for many years.
+ This occurs as the waste consolidates further, and
+biological decomposition also reduces waste volume.
+ Where good waste compaction is provided, settlement
+may reduce the landfill's final depth by 15%.
+ With poor compaction, settlement increases to 25%.
+ Water contained within the solid waste, plus water that
+enters the landfill, forms a medium for the soluble
+substances to dissolve and causes the unreacted materials
+to move downward as leachate.
+
+ The quantity of leachate generated is primarily dependent
+upon:
+(1) the amount of precipitation falling into the landfill while it
+is open;
+(2) the amount of drainage through the landfill cover after it is
+closed; and
+(3) may be further increased by the high moisture content of
+the wastes.
+
+ Thus, the important physical changes in landfills are:
+
+
+the lateral diffusion of gases in the landfill and emission
+of landfill gases to the surrounding environment,
+
+
+
+movement of leachate within the landfill and into
+underlying soils, and
+
+
+
+settlement caused by consolidation and decomposition
+
+Chemical Reactions
+ Chemical reactions taking place in a landfill mainly
+involve oxygen, organic acids, and carbon dioxide-products of the decomposing waste.
+ Oxidation reactions generally affect metals and are
+limited by the supply of oxygen trapped in the landfill.
+ Reactions between organic acids and metals result in
+metallic ions and salts in the leachate.
+ Carbon dioxide, after combining with water, solubilizes
+calcium and magnesium and increases the hardness of
+leachate.
+
+ Thus, the important chemical reactions that occur within
+the landfill include:
+
+
+dissolution and suspension of landfill materials and
+biological conversion products in the liquid percolating
+through the waste,
+
+
+
+evaporation and vaporization of chemical compounds
+and water into the evolving landfill gas,
+
+
+
+sorption of volatile and semivolatile organic compounds
+into the landfilled material,
+
+
+
+dehalogenation and decomposition of organic
+compounds, and
+
+
+
+oxidation reduction reactions affecting metals and the
+solubility of metal salts.
+
+ The dissolution of biological conversion products and other
+compounds, particularly of organic compounds, into the
+leachate is of special importance because these materials
+can be transported out of the landfill with the leachate.
+ These organic compounds can subsequently be released into
+the atmosphere either through the soil (where leachate has
+moved away from an unlined landfill) or from uncovered
+leachate treatment facilities.
+ Other important chemical reactions include those between
+certain organic compounds and clay liners, which may alter
+the structure and permeability of the liner material.
+ The interrelationships of these chemical reactions within a
+landfill are not well understood.
+
+Biological Reactions
+ The most important biological reactions occurring in
+landfills are those involving the organic material in MSW
+that lead to the evolution of landfill gases and, eventually,
+liquids.
+ The biological decomposition process usually proceeds
+aerobically for some short period immediately after
+deposition of the waste until the oxygen initially present is
+depleted.
+ During aerobic decomposition, CO2 is the principal gas
+produced.
+
+ Once the available oxygen has been consumed, the
+decomposition becomes anaerobic and the organic matter
+is converted to CO2, CH4, and trace amounts of ammonia
+and hydrogen sulfide.
+ Many other chemical reactions are biologically mediated
+as well.
+ Because of the number of interrelated influences, it is
+difficult to define the conditions that will exist in any
+landfill or portion of a landfill at any stated time.
+ Microbial reactions in the landfill are landfill gas evolution
+and leachate.
+
+ The overall breakdown of organic matter can be represented
+by the equation:
+C6H1206
+Biomass + Heat
+(Carbohydrate)
+
+=
+
+CH4
+
+(Methane)
+
++
+
+CO2
+
+(Carbon dioxide)
+
++
+(Bacteria)
+
+ In general, a landfill will go through three different
+decomposition stages with different bacterial types
+predominating in each stage.
+ Figure 8.3 illustrates the changes.
+
+Figure 8.3: Landfill stabilisation, gas and leachate production
+(Source: Westlake, 1995)
+
+Stage 1
+ Solid waste initially decomposed aerobically, with carbon
+dioxide, water, and nitrate the decomposition products. As
+oxygen is used up, facultative and anaerobic
+microorganisms predominate.
+ These bacteria produce volatile acids and carbon dioxide.
+ These organic acids reduce the pH to 4 or 5, which in turn
+solubilizes some inorganic materials in the landfill.
+ During this time, conductivity will be very high.
+ The low pH is toxic to methane producing bacteria, so
+little methane will be produced during this period.
+ The first anaerobic stage is characterised by low pH, high
+volatile acid production, high chemical oxygen demand
+(COD), high conductivity, and low methane production.
+
+Stage 2
+ With time, methane producing bacteria become more
+predominant (second stage anaerobic decomposition).
+ These bacteria degraded the volatile acids to methane and
+carbon dioxide, (at approximately a 50-50 ratio), resulting
+in a rise in pH to more neutral values (7-8) and a fall in the
+COD.
+ With the higher pH, fewer inorganic salts are solubilized
+which, combined with the decreasing volatile acid
+production, results in a fall in conductivity.
+ The ratio of methane to carbon dioxide depends not only on
+the activity of methane-forming microorganisms in relation
+to other microbial forms (primarily acid formers), but also
+on the nature of the organic components of the wastes.
+
+ For example, anaerobic decomposition of cellulosic
+components results in almost equal amounts of methane and
+carbon dioxide; proteins and fats produce more methane
+than carbon dioxide.
+ With the proportion of protein, fats, and cellulose found in
+municipal solid waste, the ratio of methane to carbon
+dioxide in the biogas is generally between 1.1 and 1.2.
+Stage 3
+ This is the maturation stage where processes from Stage 2
+continue but gradually slows with decomposition.
+
+Factors Affecting Decomposition
+ Major environmental factors which affect the rate and
+extent of the biochemical decomposition in the landfill are
+moisture, temperature, soil cover permeability to water,
+rainfall, the degree of resistance of the wastes to bacterial
+attack, and solid waste processing before landfilling.
+ Moisture is an essential factor for bacterial survival.
+ An ideal moisture content is one that approaches
+saturation; however, it can be a limited factor for the
+biological reaction if it drops below 40%.
+ Below 20%, decomposition essentially ceases.
+
+ The amount of moisture in the landfill will depend upon
+rainfall and the landfill cover's resistance to infiltration.
+ Processing of the waste (shredding, for example) will
+enhance decomposition conditions.
+
+Component Analysis
+ Individually, the components of municipal solid waste go
+through the following changes in a landfill:
+Metals:
+ Metals remain in landfill as inert or relatively inert
+compounds unless soil is eroded by surface runoff.
+ They may leach to groundwater such as:
+
+
+
+
+sulfates of calcium and magnesium;
+bicarbonates of iron, calcium and magnesium;
+oxides of tin, zinc, and copper.
+
+Plastics:
+ Plastics are essentially inert.
+
+Cloth, Natural and Synthetic:
+ These remain as an inert or relatively inert materials.
+ They may be oxidized and reduced (minerals in natural
+fibers), or may remain by incorporating into microbial
+protoplasm as ammonia, carbon, phosphorus, and
+potassium.
+ Cloth products:
+ may leach out of the groundwater as:
+carbon dioxide,
+ketones,
+organic acids,
+sulfates
+phosphates,
+
+ or they may escape into the atmosphere as:
+carbon dioxide,
+methane,
+volatile acids,
+nitrogen,
+ammonia,
+hydrogen sulfide, and
+mercaptans.
+
+Rubber, Natural and Synthetic:
+ Synthetic rubber remains essentially inert.
+ Natural rubber breaks down extremely slowly.
+Glass:
+
+Wood, Garbage, and Paper :
+ Wood may:
+ leach to groundwater as:
+ carbon dioxide,
+ ketones,
+ organic acids,
+ phenol,
+ ammonium,
+ nitrites, and
+ nitrates;
+
+ or remains in landfill through incorporation into microbial
+protoplasm as:
+ammonium,
+
+ may escape into atmosphere as:
+carbon dioxide,
+methane,
+volatile acids,
+nitrogen, and
+ammonia.
+
+Unclassified:
+ Unclassified material remain relatively inert.
+ Ashes in fill may leach soluble minerals to groundwater.
+
+8.7 The Management of Landfill Gases
+ Landfill gas movement and emissions are particularly
+important considerations in landfill management.
+ As gas is evolved within a landfill, internal pressure may
+build, causing the landfill cover to crack and leak.
+ Water entering the landfill through the leaking cover may
+enhance the gas production rate, causing still more
+cracking.
+ Escaping landfill gas may carry trace carcinogenic and
+teratogenic compounds into the surrounding environment.
+ Because landfill gas usually has a high methane content,
+there may be a combustion and/or explosion hazard.
+
+Gas Production
+ The amount of the gas production depends on the extent
+and rate of decomposition.
+ The ultimate gas yield has an estimated gas composition
+by volume of 51% methane and 49% carbon dioxide.
+ Due to less than ideal conditions in a landfill, the observed
+gas yields are about 100 cubic metres per tonne of waste.
+ It is evident from Figure 8.3 that once waste has become
+methanogenic, the major gases present in landfill gas are
+methane and carbon dioxide; these gases typically make
+up 50-60% (v/v) and 30-40% (v/v) landfill gas
+respectively.
+
+ Other 'bulk' components of landfill gas (those gases
+measured at percentage levels) include hydrogen, oxygen
+and nitrogen.
+ The relative proportion of these gases, together with key
+trace components often falls within a range that is
+characteristic of gases from different sources, and can
+help to identify the source of migrating gas.
+ Both methane and hydrogen are flammable in the
+presence of oxygen and are therefore potentially
+explosive if ignition occurs within a confined
+environment.
+ Methane is flammablc in air within the range 5-15% by
+volume while hydrogen is flammable within the range
+4.1-75%.
+
+ However, except in the early stages of waste stabilisation
+when the concentration can reach levels of approximately
+20% (v/v), hydrogen is seldom present within landfill gas
+at levels within the explosive range.
+ The exact values for the upper explosive limit (U.E.L) and
+lower explosive limit (L.E.L) for methane may vary
+according to the concentration of other bulk components
+such as carbon dioxide and nitrogen, but for most
+purposes, the flammable range 5-15% (v/v) is recognized
+and is the basis upon which methane gas control levels
+have been set.
+
+ In addition to the hazards associated with the major 'bulk'
+gases the minor trace components may also exert a
+deleterious impact upon the environment and upon
+human health.
+ Many of the trace compounds in landfill gas are
+recognised toxicants when present in air at concentrations
+which exceed recognised toxicity threshold limit values
+(TLV's) or the Occupational Exposure Standards (OESs)
+set by the Health and Safety Executives.
+ Anyone coming into contact with landfill gas is therefore
+potentially at risk from the toxic nature of the minor
+components.
+
+Gas Migration
+ The migration of landfill gas will affect the environment in
+a number of ways, the most significant of which are likely
+to be:
+
+
+the contribution to atmospheric methane emissions and
+
+
+
+the explosion hazard caused by accumulation of
+migrating gas within enclosed spaces.
+
+8.8 The Management of Leachate
+ Leachate migration is another concern.
+ As leachate migrates downward in the landfill, it may
+transfer compounds and materials to new locations where
+they may react more readily.
+ Leachate occupies pore spaces in the landfill and in doing
+so may interfere with the migration of landfill gas.
+Leachate Production
+ Leachate which reaches the base of the landfill may seep
+into the ground.
+ If leakage does occur, an underlying groundwater aquifer
+may be contaminated.
+
+ The extent of contamination will depend upon the
+permeability of the soil formation.
+ Leakage into a porous formation may result in a large area
+being contaminated.
+ In the past, many landfills were not lined.
+ Due to groundwater protection concerns, liners are being
+installed at the base of most new landfills to control and
+collect the leachate.
+ Some inorganic materials will still be solubilized into the
+leachate by decomposition occurring during the second
+stage, so the fall in conductivity will not be as drastic as the
+fall in COD.
+
+ Landfill leachate is hazardous by virtue of the high BOD
+and COD content and the toxicity of dissolved organic and
+inorganic chemicals.
+ If allowed to enter streams and other watercourse's,
+aerobic metabolism of the compounds that make up the
+BOD and COD by plant life and microorganisms can
+remove the majority of dissolved oxygen present within
+the water converting the watercourse to eutrophic state in
+which fish and other animal life cannot survive.
+ Hazards due to other organic and inorganic solutes will
+vary according to the nature of the leachate.
+ But the heavy metals and ammonia which are present in
+most leachates are recognized as the most common toxic
+components.
+
+ Even when present at the relatively low levels, heavy metals
+may prove hazardous if they are bio-accumulated through
+the feeding chain.
+
+8.9 Environmental Monitoring
+ Upon completion of all fill activities, the landfill surface is
+repaired and upgraded with the installation of a final cover.
+ The site is landscaped appropriately and prepared for other
+uses.
+ Landfill closure is the term used to describe the steps that
+must be taken to close and secure a landfill site once the
+filling operation has been completed.
+
+ Environmental monitoring involves the activities,
+associated with collection and analysis of water and air
+samples, that are used to monitor the movement of landfill
+gases and leachate at the landfill site.
+
+8.10 Postclosure Care
+ Postclosure care refers to the activities associated with the
+long-term monitoring and maintenance of the completed
+landfill (typically 30 to 50 years).
+ Monitoring and maintenance of the completed landfill
+must continue by law for some time after closure (30 to 50
+years).
+
+ It is particularly important:
+
+
+
+
+
+
+that the landfill surface be maintained and repaired to
+enhance drainage,
+that gas and leachate control systems be maintained and
+operated, and
+that the pollution detection system be monitored .
+
+ Occasionally, leachate may seep through weak point in the
+covering and come out on to the surface.
+ It appears black and bubbly (Figure 8.4).
+ Later, it will stain the ground red.
+ Leachate seepages are promptly repaired by excavating the
+area around the seepage and filling it with well-compacted
+soil to divert the flow of leachate back into the landfill.
+
+Figure 8.4 Seepage of leachate (black) can be seen through
+a weak spot in the cover
+
+Groundwater Monitoring
+ At many points surrounding the landfill are groundwater
+monitoring stations.
+ These are pipes that are sunk into the groundwater (Figure
+8.5) so water can be sampled and tested for the presence of
+leachate chemicals.
+ The temperature of the groundwater is measured.
+ Because the temperature rises when solid waste
+decomposes, an increase in groundwater temperature
+could indicate that leachate is seeping into the
+groundwater.
+ Also, if the pH of the groundwater becomes acidic, that
+could indicate seeping leachate.
+
+Figure 8.5 A groundwater monitoring pipe stands in the center.
+The two yellow markers on either side make it more
+visible so that equipment operators will not run into the
+monitoring station.
+
+The Life of a Modern Landfill
+ The development of a modern landfill is illustrated in Figure
+8.6.
+
+Excavation and
+installation of
+landfill liner
+
+Placement of
+solid waste in
+landfill
+
+Cutaway
+through
+completed
+landfill
+Figure 8.6 Development and completion of a solid waste landfill
+
+8.11 Concerns with the Landfilling of Solid
+Wastes
+ Concerns with the landfilling of solid waste are related to:
+(1)
+the uncontrolled release of landfill gases that might
+migrate
+off-site and cause odor and other potentially dangerous
+condition,
+(2)
+the impact of the uncontrolled discharge of landfill gases
+on
+the greenhouse effect in the atmosphere,
+(3)
+the uncontrolled release of leachate that might migrate
+down to
+underlying groundwater or to surface waters,
+(4) the breeding and harboring of disease vectors in improperly
+managed landfills, and
+(5)
+the health and environmental impacts associated with the
+release of the trace gases arising from the hazardous materials
+
+

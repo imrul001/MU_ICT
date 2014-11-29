@@ -1,0 +1,109 @@
+//created on: 5 Oct 2557
+package com.sample
+
+//list any import classes here.
+
+//import com.sample.Orbital
+import com.sample.SimpleOrbital
+import com.sample.Atom
+import java.util.ArrayList
+//declare any global variables here
+
+
+
+rule "Fill all This subShell"
+    salience 1
+    when
+    	
+    	$e : Atom($lv : currentElv,$n : currentN)
+    	Atom($e_left: electronLeft >= (4*($lv-$n))+2)
+   		$o : SimpleOrbital(Elv == $lv && n==$n && electron == 0 )
+   		//SimpleOrbital(Elv != 4, n !=4) from $o
+   		//m : ArrayList(size == 2) from collect ( Orbital() from $o)
+    then
+        //actions
+        $o.setFull();
+        $e.setElectronLeft($e_left-$e.getMaxElectron());
+        $e.nextSub();;
+        update($o)
+        update($e);
+        //System.out.println("Elv=" + $lv + ",n=" + $n +",e=" + $e_left);
+end
+
+rule "Fill half in subShell"
+	salience 1
+	when
+		$e : Atom($lv : currentElv,$n : currentN)
+    	Atom($e_left: electronLeft >= (2*($lv-$n))+1)
+   		$o : SimpleOrbital(Elv == $lv && n==$n && electron == 0 )
+	then
+		$o.setHalf();
+        $e.setElectronLeft($e_left-($e.getMaxElectron()/2));
+        //$e.nextSub();;
+        update($o)
+        update($e);
+end
+
+rule "Fill remainder"
+	salience 1
+	when
+		$e : Atom($lv : currentElv,$n : currentN)
+    	Atom($e_left: electronLeft >0)
+   		$o : SimpleOrbital(Elv == $lv && n==$n,$electron: electron)
+	then
+		$o.setElectron($electron+$e_left);
+		$e.setElectronLeft(0);
+		update($o)
+        update($e);
+end
+
+rule "For cross energy level of lower s and uppder d"
+salience 100
+	when
+		$d	: Atom(initialElectron == 24 || initialElectron == 29 || initialElectron==42 ||(initialElectron >=44 && initialElectron <=47))
+		$e	: Atom($lv : currentElv >= 4,$n:currentN,currentElv==currentN) from $d
+		Atom($e_left: electronLeft >= (2*($lv-$n))+1 && electronLeft <= 10 +1)
+		$o	: SimpleOrbital( Elv == $lv && n == $n && electron == 0)
+	then
+		System.out.println("exeptional");
+		$o.setHalf();
+		$e.setElectronLeft($e_left-($e.getMaxElectron()/2));
+		$e.nextSub();
+		update($o)
+        update($e);
+end
+
+/*
+rule "fill leftmost ml in up direction"
+	
+	when
+		e : Atom($lv : currentElv, $n : currentN)
+		$o : Orbital(Elv ==$lv && n == $n && l==0, $l : l)
+		$ml : Orbital(ml== -(0) && filled == false) from $o
+	then
+		System.out.println("fill ml");
+		$ml.setFilled(true);
+		//e.addOrbital($ml);
+		update($ml);
+		//update(e);	
+end
+
+rule "fill -ms the last one"
+	
+	when
+		e : Atom($lv : currentElv, $n : currentN)
+		$o : Orbital(Elv ==$lv && n == $n && l == 0 && ml == 0)
+		$Array: ArrayList(size==1) from collect (Orbital(Elv ==$lv && n == $n && l == 0 && ml == 0 && filled == false))
+		//$msNeg: Orbital(ms == -0.5,filled == false) from $o
+		
+	then
+		System.out.println("fil -ms");
+		//System.out.println($size);
+		//$msNeg.setFilled(true);
+		
+		//e.addOrbital($msNeg);
+		//update($msNeg);
+		//update(e);
+end
+
+*/

@@ -1,0 +1,59 @@
+package sourcePackage;
+
+import java.util.Collections;
+import java.util.LinkedList;
+
+
+public class MyQueue {
+	public static void main(String[] args){
+		System.out.println("This is a test queue");
+	
+		LinkedList<QueueItem> queue = new LinkedList<QueueItem>();
+		
+		int[] costs = {13, 2, 1, 10, 3, 18, 20};
+		String[] name ={"pizzhut", "resturent", "medicine", "dry food", "confectionary", "fist", "telecom"};
+		
+		MyQueue testQueue = new MyQueue();
+
+		queue = testQueue.generateQueue(costs, name);
+		
+		testQueue.sortPriorityQueue(queue);
+		testQueue.printQueue(queue);		
+	}
+	
+	
+	public LinkedList<QueueItem> generateQueue(int[] cost, String[] name){
+		LinkedList<QueueItem> queue = new LinkedList<QueueItem>();
+		for(int i=0; i<cost.length; i++){
+			QueueItem item = new QueueItem();
+			item.setCost(cost[i]);
+			item.setPath(name);
+			queue.add(item);
+		}
+		return queue;
+	}
+	
+	public LinkedList<QueueItem> sortPriorityQueue(LinkedList<QueueItem> items){
+		LinkedList<QueueItem> sortedList = items;
+		Collections.sort(sortedList);
+		return sortedList;
+	}
+	
+	public void printQueue(LinkedList<QueueItem> queue){
+	    for(QueueItem item: queue){
+			System.out.println("Shop Name "+item.getPath()+" Cost "+item.getCost());
+		}
+	}
+	public static void printTheQueue(LinkedList<QueueItem> items, int iterationNo){
+		System.out.println("Iteration No "+iterationNo);
+		for(QueueItem item : items){
+			GraphSearch.printArray(item.getPath());
+			System.out.print("{Cost=");
+			System.out.print(item.getCost());
+			System.out.print("}");
+			System.out.println(" ");
+		}
+		System.out.println();		
+	}
+	
+}

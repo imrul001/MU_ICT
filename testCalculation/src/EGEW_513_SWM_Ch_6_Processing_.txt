@@ -1,0 +1,1304 @@
+ENWR 513
+Solid and Hazardous Waste
+Management
+6. Solid Waste Treatment and
+Processing Technologies
+Dr. Ranjna Jindal
+
+Lecture Outline
+ Solid Waste Materials Separation and Processing
+Technologies
+ Unit Operations for the Separation and
+Processing of Waste Materials
+ Size Reduction
+ Size Separation
+ Density Separation (Air Classification)
+ Magnetic and Electric Field Separation
+ Densification (Compaction)
+
+Solid Waste Materials Separation and
+Processing Technologies
+ In an “as collected,” commingled (mixed) state, municipal
+solid waste (MSW) is:
+
+
+
+
+biologically unstable,
+can become odorous, and
+is essentially unusable.
+
+ The further separation and processing of wastes that have
+been separated at the source usually occur at Materials
+Recovery Facilities (MRFs) or at large integrated
+Materials Recovery/Transfer Facilities (MR/TFs).
+
+ Various different physical treatments (unit operation) are
+used to separate commingled MSW into usable materials
+at materials recovery facilities (MRFs).
+ Waste components such as paper, plastics, glass, and
+metals can be recovered from MSW for remanufacturing
+into new products.
+ The organic portions of solid waste can be recovered as a
+feedstock for composting or other biological processes or
+as refuse-derived fuel (RDF) for use in thermal
+processing for energy recovery.
+
+Physical Treatment
+6.1 Unit Operations for the Separation and
+Processing of Waste Materials
+
+
+
+
+Unit operations used for the separation and processing of
+separated and commingled wastes are designed:
+
+
+to modify the physical characteristics of the waste so that
+waste components can be removed more easily
+
+
+
+to remove specific components and contaminants from
+the waste stream.
+
+The principal unit operations used for the recovery and
+processing of MSW are Summarized in Table 6.1.
+
+Table 6.1 Methods Used for the Processing and the Recovery
+of
+Individual Waste Components from MSW
+___________________________________________________________________________________________________________________________________
+
+Processing Options
+
+Description
+
+___________________________________________________________________________________________________________________________________
+
+Size reduction
+
+Unit operation used for the reduction of both
+commingled MSW and recovered materials.
+Typical applications include (1) hammer mills for
+shredding Commingled MSW; (2) shear
+shredders for use with commingled MSW and
+recycled materials such as aluminum, tires, and
+plastics; and (3) tub grinders used to process yard
+wastes.
+
+_____________________________________________________________________________________________________________________________________
+
+Size separation
+
+Unit operation in which materials are separated by
+size and shape characteristics, most commonly by
+the use of screens. Several types of screens are in
+common use, including (1) reciprocating screens
+for sizing shredded yard wastes; (2)trommel
+screens used for preparing commingled MSW
+prior to shredding; and (3) disc screens used for
+removing glass from shredded MSW.
+
+Table 6.1 Methods Used for the Processing and the Recovery
+of
+Individual Waste Components from MSW
+(Contd.)
+___________________________________________________________________________________________________________________________________
+
+Processing Options
+
+Description
+
+___________________________________________________________________________________________________________________________________
+
+Density separation
+
+Unit operations in which materials are separated
+by density. Typical Applications include (1) air
+classifiers for the preparation of RDF; (2) inertial
+separation for the processing of commingled
+MSW; and (3) flotation for the processing of
+construction debris.
+
+____________________________________________________________________________________________________________________________________
+
+Electric and Magnetic
+Field separation
+
+Unit operations in which materials are separated
+by their electrostatic charge and magnetic
+permeability. Typical applications include
+(1) the separation of Plastics from paper and
+(2) the separation of ferrous from nonferrous
+materials (e.g., “tin cans” from aluminum cans).
+
+of
+
+Table 6.1 Methods Used for the Processing and the Recovery
+
+(Contd.)
+
+Individual Waste Components from MSW
+
+___________________________________________________________________________________________________________________________________
+
+Processing Options
+
+Description
+
+___________________________________________________________________________________________________________________________________
+
+Densification
+(Compaction)
+
+Densification and compaction are unit operations
+that are used to increase the density of recovered
+materials to reduce transportation costs and
+simplify storage. Typical applications include
+(1) the use of baling for cardboard, paper,
+plastics, and aluminum cans; and (2) the use of
+cubing and pelletizing for the production of
+densified RDF.
+
+____________________________________________________________________________________________________________________________________
+
+Materials Handling
+
+Unit operations used for the transport and storage
+of MSW and recovered Materials. Typical
+applications include (1) conveyors for the
+transport of MSW and recovered materials;
+(2) storage bins for recovered materials; and
+(3)rolling stock such as forklifts, front-end
+
+6.2 Size Reduction
+ Size reduction is the unit operation in which as collected
+waste materials are mechanically reduced in size.
+ In practice, the terms shredding, grinding, and milling are
+also used interchangeably to describe size-reduction
+operations.
+ The objective of size reduction is to obtain a final product
+that is reasonably uniform and considerably reduced in
+size in comparison to its original form.
+ Note that size reduction does not necessarily imply volume
+reduction.
+
+ In some situations, the total volume of the material after
+size reduction may be greater than that of the original
+volume.
+ Size reduction
+
+ to reduce the size of the materials in
+MSW
+
+ to process materials for direct use:
+such as: mulch or compost; or
+as part of a materials recovery
+
+
+
+facility
+
+Types of Equipment
+ Several types of size reduction units are in common use:
+ the hammer-mill shredder, which is very effective with
+brittle (easily breakable) materials;
+ the shear shredder, which uses two opposing counter
+rotating blades to cut ductile materials in a scissor like
+action; and
+ the tub grinder, which is widely used in the processing
+of yard wastes.
+
+ Each type of size reduction devices has its unique properties
+that may suit to specific applications.
+ These properties can be used to meet different size
+reduction goals, depending on the requirements of
+downstream (next) processes such as air classifiers or
+screens.
+Hammer-mill Shredder
+ Operationally, an impact device in which a number of
+hammers are fastened flexibly to an inner shaft or disk that
+is rotated at high speed (700 to 1200 rev/min (rpm)).
+ Because of centrifugal force, the hammers extend radially
+from the center shaft (Figure 6.1)
+
+Figure 6.1 Hammer mill Shredder (Top view)
+
+ As solid wastes enter the hammer mill, they are hit with
+sufficient force to crush or tear them and with such a
+velocity that they do not adhere (stick) to the hammers.
+ Wastes are further reduced in size by being struck against
+breaker plates or cutting bars fixed around the inner
+periphery of the inner chamber.
+ The cutting action continues until the material is of the
+size required and falls out of the bottom of the mill.
+
+ Hammer mills can be designed in either horizontal – shaft
+or vertical-shaft configurations (Figure 6.2) .
+ Horizontal-shaft machines have proven to be the most
+reliable.
+Shear Shredders
+ Shear shredders operate in scissor like action in which two
+counter rotating knives cut or shear the waste.
+ Compared to hammer mills, shear shredders are low-speed
+devices (60 to 190 rev/min).
+ Most are driven by hydraulic motors that can be reversed
+automatically in the event of a jam.
+
+Figure 6.2
+
+
+
+
+
+
+
+
+
+
+Tub Grinders
+A tub grinder is essentially a mobile hammer mill shredder
+that can be taken to the source of wastes and used to
+process materials on site.
+Tub grinders have been used for a wide variety of
+materials, including tree prunings, tree stumps, and
+construction debris.
+A typical tub grinder features a large-diameter feed throat,
+into which materials to be shredded are dropped (Figure
+6.3).
+The rotary motion of this feed throat, or “tub,” conveys
+the material into a horizontal hammer mill shredder.
+Tub grinders are generally powered by diesel engines and
+are trailer-mounted for ease of moving.
+
+Figure 6.3 Tub Grinder
+
+Performance Characteristics
+ Raw (i.e., unprocessed), commingled MSW has a particle
+size distribution.
+ After shredding, the particle distribution changes
+significantly, because hammer mill shredders do not
+produce materials of uniform size.
+ Brittle materials such as glass, sand, and rock form a higher
+proportion of fine particles than do ductile materials such as
+ferrous and nonferrous metals.
+ This characteristic of hammer mills can be used to
+advantage if screens are used following the hammer mill to
+separate out glass, sand, and rocks from other materials.
+
+ However, the high-speed rotation of the hammer mill
+causes some of these finer particles of glass and sand to
+become embedded in (gone into) softer materials such as
+paper and textiles.
+ This contamination can affect the product specifications
+for these materials.
+ Shear shredders tend to produce a more uniform product.
+ They are particularly effective with:
+
+
+
+
+MSW,
+some types of industrial waste, and
+tires.
+
+Design Criteria
+ Size reduction equipment is designed based on the
+mass loading of waste (ton/h) and the power
+consumed.
+ The energy consumption can also be estimated by
+Kick’s law :
+l1
+E  C ln
+(6.1)
+l2
+where E
+
+C
+l1
+l2
+
+=
+=
+=
+=
+
+energy consumption rate, hp . h/ton
+constant, hp . h/ton
+initial size
+final size
+
+ The application of Kick’s law is illustrated in
+Example 6.1.
+
+Example 6.1 Application of Kick’s law for estimation of
+horsepower requirements for size reduction.
+ Estimate the horsepower required to reduce commingled
+MSW with an average size of 12” to a final size of about 2”
+for a plant with a capacity of 80 ton/h, using Kick’s law.
+Assume that a specific energy of 20 hp . h/ton is required to
+reduce MSW with an average size of 6” to 2”.
+Solution:
+1. Find the constant C using Kick’s law, Eq. (6.1):
+E  C ln
+C 
+
+E
+l
+ln 1
+l2
+
+l1
+l2
+
+20 hp h / ton
+6
+ln
+2
+ 18.20 hp h / ton
+
+
+2. Find the energy consumption rate, E, for size
+reduction
+from 12” to 2” :
+12 in
+E  18.20 hp h / ton ln
+
+2 in
+
+ 32.58 hp h / ton
+
+3.
+
+Find the energy
+required.
+hp  32.58 hp h / ton 80
+
+ton / h
+
+ 2606 hp (1944 kW )
+
+Comment. Kick’s law is an approximation of energy consumption that
+can be used to extrapolate experimental data from one
+
+6.3 Size Separation
+ Size separation, or screening, involves the separation of a
+mixture of materials into two or more portions by means
+of one or more screening surfaces, which are used as go or
+no-go gauges.
+ Size separation can be accomplished dry or wet, with the
+former being most common in solid waste-processing
+systems.
+Types of Equipment
+ The most common types of screens used for the separation
+of solid waste are (Figure 6.4):
+
+
+
+reciprocating (vibrating) screens,
+trommel screens (also known as rotary drum screens),
+
+Figure 6.4
+Typical screens used
+for the separation of
+solid wastes:
+(a) vibrating screen
+(b) rotary drum
+(trommel) screen
+(c) Disc screen
+
+Vibrating Screens
+ These are most often used to separate relatively dry
+materials such as glass or metals (Figure 6.5).
+ They are also used to separate wood chips, used as a
+bulking agent in sludge composting, from the compost
+product
+ Also for the removal of broken pieces of concrete from
+construction debris.
+
+Figure 6.5 Vibrating screen
+
+Trommel Screens
+ Tromel screens are one of the most versatile types of
+screens for solid waste processing.
+ Trommel screen consists of a large-diameter (typically 10
+ft) screen, formed into a cylinder and rotating on a
+horizontal axis (Figure 6.4 (b)).
+ These have been used to protect shredders in RDF
+production facilities (by removing oversized material) and
+to separate cardboard and paper in materials recovery
+facilities.
+
+Disc Screens
+ Disc screens are an alternative to reciprocating screens.
+ As shown in Figure 6.4 (c), a disc screen consists of sets of
+parallel, interlocking, rotating discs.
+ The materials to be separated fall between the spaces, and
+oversized materials are carried over the top of the discs as in
+a conveyor belt.
+ Disc screens have several advantages over reciprocating
+screens, including self-cleaning and capability of adjustment
+by varying the spacing of the discs on the drive shafts.
+
+Performance Characteristics
+ The efficiency of separation devices can be evaluated in
+terms of:
+
+
+
+
+percentage recovery,
+purity, and
+efficiency
+
+by using binary separation theory.
+ Assume that a waste stream, composed of two components
+X and Y is to be separated.
+
+ If the input to a binary separation device is denoted as X0 +
+Y0, then after separated, two waste streams result in 1 and
+2, each containing a mixture of X and Y denoted as X1, Y1
+and X2, Y2 respectively (Figure below).
+ The recovery percentage of the device for the two
+components in the waste stream can be defined as follows:
+X0 + Y0
+
+→
+Binary
+Separator →
+
+→ X1 + Y1 (Want X here)
+X2 + Y2 (Want Y here)
+
+Recovery of component X = Recovery (X) =
+Recovery of component Y = Recovery (Y) =
+
+X 
+R ( X1 )  1  100%
+ X0 
+Y 
+R ( Y2 )  2  100%
+ Y0 
+
+(6.2)
+(6.3)
+
+ Recovery is not a useful parameter if used by itself.
+ For example, a hypothetical device could achieve 100
+percent recovery for component X if all of the waste stream
+(both X and Y) went into side 1.
+ In that case X2 and Y2 would both be equal to 0, but no
+separation would have occurred!
+ A second parameter, purity, must also be used to describe
+the performance of a separation device.
+
+ The purity function represents the quality of the material
+separated in terms of its contamination by the other
+material.
+ The percentage of purity of the recovered material can be
+defined as follows:
+Purity of component X = Purity (X) = P(X1) =  X1
+(X1 + Y1)
+Purity of component Y = Purity (Y) = P(Y2) =  Y2 
+(X2 + Y2)
+
+ (6.4)
+(6.5)
+
+ An ideal device would have both high recovery and high
+purity.
+ A single parameter, efficiency, can be used to describe both
+recovery and purity:
+Efficiency =
+
+E X ,Y  
+
+X 1 Y1
+X Y
+
+100%  2  2(6.6)
+100%
+X 0 Y0
+X 0 Y0
+
+ The application of Eqs. (6.2) through (6.6) is demonstrated
+in Example 6.2.
+
+Example 6.2 Determination of screen recovery,
+purity, and efficiency.
+Given that 100 ton/h of commingled MSW with the
+composition shown in Table 2.5 are applied to a trommel
+screen for the removal of glass prior to shredding, determine
+the recovery, purity, and efficiency of the screen based on the
+following experimental data.
+Weight of underflow
+Weight of glass in screen underflow
+
+= 10 ton/h
+= 7.2 ton/h
+
+The MSW into the screen is defined as X0 + Y0,
+the overflow is denoted as
+X1 + Y1,
+and the underflow is
+X2 + Y2.
+
+Table 2.5 Typical physical composition of residential MSW in
+USA excluding recycled materials and food wastes
+discharged with wastewater (1990)
+Percent by Weight
+Component
+
+United States
+Range
+
+Typical
+
+Packaging
+materials
+
+Davis, California
+
+Food wastes
+
+6-18
+
+9.0
+
+-
+
+6.0
+
+Paper
+
+25-40
+
+34.0
+
+50-60
+
+33.1
+
+Cardboard
+
+3-10
+
+6.0
+
+12-16
+
+7.9
+
+Plastics
+
+4-10
+
+7.0
+
+-
+
+10.7
+
+Textiles
+
+0-4
+
+2.0
+
+-
+
+2.4
+
+Rubber
+
+0-2
+
+0.5
+
+-
+
+2.5
+
+Leather
+
+0-2
+
+0.5
+
+-
+
+0.1
+
+Yard wastes
+
+5-20
+
+18.5
+
+-
+
+17.7
+
+Wood
+
+1-4
+
+2.0
+
+4-8
+
+5.0
+
+Misc. organics
+
+-
+
+-
+
+-
+
+0.4
+
+Organic
+
+Table 2.5 Typical physical composition of residential MSW in
+USA excluding recycled materials and food wastes
+discharged with wastewater (1990) (Contd.)
+Percent by Weight
+Component
+
+United States
+Range
+
+Typical
+
+Packaging
+materials
+
+Davis, California
+
+Glass
+
+4-12
+
+8.0
+
+20-30
+
+5.8
+
+Tin cans
+
+2-8
+
+6.0
+
+6-8
+
+3.9
+
+Aluminum
+
+0-1
+
+0.5
+
+2-4
+
+0.4
+
+Other metal
+
+1-4
+
+3.0
+
+-
+
+3.6
+
+Dirt, ash, etc.
+
+0-6
+
+3.0
+
+-
+
+0.5
+
+Inorganic
+
+Total
+
+100.0
+
+100.0
+36
+
+Solution:
+1.
+
+Find X0 and Y0 by determining the weight fraction
+of glass in the feed to the screen.
+From Table 2.5, the percentage of glass is given as 8 % .
+Thus:
+
+of
+
+X0 = 92 ton/h (mass flow rate of MSW – mass flow rate
+glass)
+Y0 = 8 ton/h (the mass flow rate of glass)
+
+2.
+Find X1 and Y1, the overflow of the trommel (also
+called the
+reject). The overflow is 90 ton/h (100 ton/h – 10 ton/h).
+Because 7.2 ton/h of glass are in the underflow,
+0.8 ton/h must remain in the overflow.
+Thus:
+Y1 = 0.8 ton/h glass ( = 8-7.2 ton/h)
+
+3.
+
+Find X2 and Y2, the underflow in the trommel:
+X2 = 10 – 7.2 = 2.8 ton/h “other”
+Y2 = 7.2 ton/h glass
+
+4. Find the recovery of glass in the underflow, using Eq. (6.3):
+Recovery (Y) = R(Y2)
+
+5.
+
+ 7.2 
+
+ 100%  90%
+ 8.0 
+
+Find the purity of the overflow and of the recovered
+
+glass.
+Using Eq. (6.4), find the purity of overflow:
+ X1 
+Purity (X)  P( X1 )  
+ 100%
+  X1  Y1  
+ 89.2 
+ P X1   
+100%  99%
+
+ 89.2  0.8 
+
+Using Eq. (6.5), find the purity of recovered glass:
+ Y2
+
+Purity (Y)  P(Y2 )  
+ 100%
+
+X
+
+Y
+
+2 
+ 2
+7.2
+ P Y2  
+ 72%
+2.8  7.2
+
+6.
+
+Find the efficiency of the trommel screen using Eq. (6.6 ):
+Efficiency  E  X ,Y  
+
+X1 Y1
+X
+Y
+
+100%  2  2 100%
+X 0 Y0
+X 0 Y0
+
+Efficiency  E  X,Y  
+
+89.2 7.2
+
+100%  87%
+92 8.0
+
+Or,
+Efficiency  E (X,Y) 
+
+2.8 7.2
+
+100%  87%
+92 8.0
+
+Comment. The trommel screen in this example appears to have a
+good recovery rate for glass (90 percent); however, note that while the
+purity of the overflow material is high (99 percent), the purity of the
+glass in the underflow is an unacceptable 72 percent. Without additional
+processing, it would be unmarketable as mixed glass. The overflow
+material would probably be acceptable, with further processing, as a
+feedstock for refuse-derived fuel (RDF).
+
+6.4 Density Separation (Air Classification)
+ Air classification is the unit operation used to separate light
+materials, such as paper and plastic from heavier materials,
+such as ferrous metal, based on the weight difference of the
+material in air stream.
+ In materials of different weights (mass) are introduced into
+an air stream moving with sufficient velocity, the light
+materials will be carried away with the air while the heavier
+materials will fall in the counter-current (opposite)
+direction.
+ Air classification has been used for a number of years in
+industrial operations for the separation of various
+components from dry mixtures.
+
+ In MRFs, air classification is used to separate the organic
+materials called the light fraction from the heavier
+materials called the heavy fraction.
+ Air classification has also been used for the separation of
+commingled (mixed) glass and plastic.
+ A complete air classification system is comprised of the:
+
+
+air classifier
+
+
+
+cyclone separator, which is used to separate the solid
+material from the air stream (Figure 6.6)
+
+Figure 6.6
+Typical air classification system used to separate solid
+waste into light and heavy fractions
+
+6.5 Magnetic and Electric Field Separation
+ Magnetic and electric field separation techniques use the
+electrical and magnetic properties of waste materials, such
+as:
+
+
+
+electrostatic charge and
+magnetic permeability,
+
+to separate materials.
+ Magnetic separation is the most commonly used technology
+for separating ferrous from nonferrous metals (Figure 6.7) .
+ Electrostatic separation can be used to separate plastics
+from paper, based on the differing surface charge
+characteristics of the two materials.
+
+Figure 6.7
+Typical magnet separators:
+(a)
+Overhead
+magnets
+(b) Commercial unit
+(c) Pulley magnet
+
+ Eddy current separation is a technique in which varying
+magnetic fields are used to induce eddy currents in
+nonferrous metals such as aluminum, forming an
+“aluminum magnet.”
+
+Types of Equipment
+Magnetic Separation
+ Either permanent magnets or electromagnets can be used
+in one of several configurations.
+ In a typical multistage belt system designed to operate at
+the end of a conveyor (Figure 6.8 a), three magnets are
+employed.
+ The first magnet is used to attract the metal.
+
+Figure 6.8
+Typical magnetic separators:
+(a) belt-type magnetic
+separator,
+(b) two-drum
+magnetic separator
+
+ The transfer magnet is used to convey the attracted material
+around a curve and to agitate it.
+ When the attracted metal reaches an area where there is no
+magnetism, it falls away freely, and any nonferrous metal
+trapped by the ferrous metal against the belt also falls.
+ The ferrous metal is then pulled back to the belt by the final
+magnet and is discharged to another conveyor or into
+storage containers (Figure 6.8 a ).
+ To achieve the cleanest possible recovered material without
+secondary shredding or air classification, a two-drum
+installation such as the one shown in Figure (6.8 b) may be
+used.
+
+ The first magnetic drum is used to pick up ferrous material
+from the shredded waste and toss (throw) it forward to an
+intermediate conveyor.
+ Most of the nonmagnetic material falls to a takeaway
+conveyor located below the primary separator.
+ Because of the reduced burden on the intermediate
+conveyor, the second drum conveyor can be smaller and can
+be positioned closer to the conveyor.
+ To ensure that no bridging or jamming occurs, the second
+drum rotates in a direction opposite to the flow of the
+material.
+
+Electrostatic Separation
+ High-voltage electrostatic fields can be used to separate
+nonconductors of electricity, such as glass, plastic, and
+paper, from conductors such as metals.
+ It is also possible to separate nonconductors from each other
+based on differences in their electrical permitivity, ε or
+ability to retain electrical charge.
+ Thus, it is possible to separate paper from plastics, and
+different types of plastics from each other.
+ Although this technology is not in widespread use at this
+time, it can be expected to be more fully developed as
+plastics recycling becomes more important.
+
+Eddy Current Separation
+ Eddy current separation is based on Faraday’s law of
+electromagnetic induction:
+
+
+where
+
+dB V
+
+(6.7)
+dt A
+
+B = magnitude of magnetic flux density,
+V = voltage, volts
+A = cross-sectional area normal to magnetic field,
+
+m2
+
+ If a conductor such as aluminum is placed in a timevarying magnetic field, a voltage will be generated in the
+material.
+
+ This voltage will cause a current to flow and induce
+a magnetic field that is opposite in polarity to the
+applied time-varying field, thus producing a
+magnetic force in opposite direction, which will
+repel the conductor out of the magnetic field.
+ This magnetic effect is used in a number of electromechanical devices, including:
+
+
+
+the rotary induction motor and
+the linear induction motor,
+
+which may have application in future mass transit
+systems.
+
+ A time-varying field can be created either by rapidly
+reversing the voltage on an electromagnet (i.e., using
+alternating current) or by using strips of permanent magnets
+with alternating polarities.
+ Several devices have been developed using this latter
+technique: the ramp separator, in which solid waste is rolled
+down a 45o inclined ramp in which the permanent magnets
+are embedded; and the vertical eddy current separator, in
+which solid waste is caused to fall freely between two plates
+with alternating permanent magnet strips.
+ A recently developed variation of this principle is the
+rotating disc separator, in which a time-varying magnetic
+field is produced by a rotating disc that is constructed with
+sectors of alternating magnetic polarity.
+
+ Although these devices have demonstrated the ability to
+separate aluminum from shredded mixed solid waste
+streams, their use in an integrated solid waste management
+system is economically questionable.
+ Source separation and buyback schemes for aluminum
+beverage cans (the predominant source of aluminum in
+MSW) have become so successful that the percentage of
+aluminum in the U.S. waste stream is decreasing.
+ Such devices will probably have their widest use in the
+separation of automobile body shredder waste, which has an
+ever-increasing proportion of aluminum as automobiles are
+made lighter by the use of aluminum components.
+
+Performance Characteristics
+ The performance of electrical and magnetic field separation
+devices can be evaluated by the purity, recovery, and
+efficiency expressions developed earlier, Eqs. (6.2) through
+(6.6).
+ In general, magnetic separation devices have been found to
+have very high efficiencies (> 95 percent), while the purity
+and recovery of eddy current devices have been reported as
+high as 98 percent.
+ Entrainment (trapping) of nonconductive and nonmagnetic
+organic particles is the primary cause for impurities in the
+extract from these devices.
+
+Design Criteria
+ Magnetic and electric field separation equipment is
+designed based on the mass loading of material flow
+(ton/h).
+ Power consumption (kWh) is also an important
+consideration.
+ The use of permanent magnets in both magnetic and eddy
+current devices is important for reducing their operating
+costs, although it increases the capital costs compared to
+devices using electromagnets.
+ Because the use of magnetic separators is an established
+practice, ratings from established manufacturers can be
+used with confidence.
+
+ Eddy current and electrostatic devices for waste separation
+are emerging technologies, therefore, pilot plant testing is
+recommended.
+
+Selection of Magnetic and Electric Field
+Separation Equipment
+ The characteristics of the waste stream, the desired
+product, and the mechanical constraints of the installation
+are important selection criteria.
+ The performance of a magnet drops off with increasing
+thickness of material on the conveyor belt.
+
+4.6 Densification (Compaction)
+ Densification (also known as compaction) is a unit
+operation that increases the density of waste materials so
+that they can be more efficiently stored and transported.
+ Several technologies are available for the densification of
+solid wastes and recovered materials, including baling,
+cubing, and pelleting.
+ Densification of solid waste is performed for several
+reasons, including:
+
+
+
+
+reduction of storage requirements of recyclables,
+reduction of volume for shipping, and
+preparation of densified refuse-derived fuels (dRDF).
+
+Types of Equipment
+ Types of equipment that are available for the densification
+of solid wastes include:
+
+
+stationary compactors;
+
+
+
+baling machines, which produce bales secured with wire or
+plastic ties; and
+
+
+
+cubing and pelleting machines, which produce wood like
+cubes or pellets that are structurally stable because of
+chemical binding agents (such as PretoTM logs) or heat
+treatment during the densification process (as in cubing or
+pelleting machines).
+
+Stationary Compactors
+ The types of compaction equipment used in solid waste
+operations may be classified as stationary or movable.
+ Where wastes are brought to and loaded into the compactor
+either manually or mechanically, the compactor is
+stationary.
+ Using this definition, the compaction mechanism used to
+compress wastes in a collection vehicle is, in fact, a
+stationary compactor.
+ By contrast, the wheeled and tracked equipment used to
+place and compact solid wastes in a sanitary landfill is
+classified as movable.
+
+ Typically, stationary compactors may be described
+according to their application as:
+
+
+
+
+
+
+(1) light-duty, such as those used for residential and
+light commercial MSW;
+(2) commercial or light industrial;
+(3) heavy industrial; and
+(4) transfer station
+
+ Compactors used at transfer stations may be further
+divided according to the compaction pressure:
+
+
+
+Low-pressure (< 100 lb/m2)
+High pressure (100 lb/m2 or more)
+
+ Where large stationary compactors are used, the wastes
+can be compressed:
+
+
+(1) directly into transfer vehicles,
+
+
+
+(2) into steel containers that can be later moved,
+
+
+
+(3) into containers equipped with internal compaction
+facilities,
+
+
+
+
+
+
+
+
+
+(4) into specifically designed steel chambers in which
+the compressed block of solid wastes is banded or
+tied prior to being removed, or
+(5) into chambers where they are compressed into a
+block and then released and hauled away in an
+untied form.
+
+Baling Equipment
+ Balers are an alternative to compaction equipment.
+ Operating under high pressure, typically 100 to 200 lb/in2,
+they produce relatively small, compact bales of solid waste
+or recovered materials.
+ Typical bale sizes range from 48 x 30 x 42 in up to 72 x 30
+x 44 in.
+ Weight of the bales depends on the material and ranges
+from 1150 to 1800 lb for the small and large bales of
+corrugated cardboard.
+ Although baled MSW has been landfilled in “balefills,” the
+predominant use of baling is in the preparation of
+recovered materials for shipment to buyers of recycled
+materials.
+
+ Virtually all of the most common recycled materials can be
+baled, including cardboard, newsprint, plastic, PET bottles,
+and aluminum cans.
+ Baled materials are easy to load with standard forklifts and
+can be economically shipped because of their high bulk
+density.
+Cubing and Pelleting Equipment
+ Cubing and pelleting is a technology that can be used to
+produce densified refuse-derived fuels (dRDF) for:
+
+
+
+
+combustion in incineration,
+gasification, or
+pyrolysis systems.
+
+ The added expense of the process can be justified when the
+dRDF has to be shipped a long distance, stored for long
+periods, or burned in existing boilers designed for coal or
+wood.
+ Cubing and pelleting machines operate on a similar
+principle.
+ Waste paper or shredded RDF is extruded through
+extrusion dies with an eccentric rotating press wheel
+(Figure 6.9 ).
+ A complete cubing or pelleting system requires a shredder,
+a conveyor, and a moisture control system (Figure 6.10).
+
+ The cubes or pellets (Figure 6.11) are bonded together by
+heat caused by friction as the cubes or pellets are extruded.
+ If kept dry, dRDF can be stored for months without
+decomposition.
+ Typical cubes are approximately 3 by l in2.
+ Pellets are cylindrical, typically
+to 1 in long.
+
+1 3
+to
+2 4
+
+in diameter by
+
+1
+2
+
+Performance Characteristics
+ The performance of baling and compaction equipment is
+rated by the percentage volume reduction and the
+compaction ratio.
+ The volume reduction percentage is defined as follows:
+Volume reduction (%)
+
+=
+
+ Vi  Vf
+
+ Vi
+
+
+ 100
+(6.8)
+
+
+Where Vi = initial volume of wastes before compaction, yd3
+Vf
+= final volume of wastes after compaction, yd3
+
+ The compaction ratio is defined as: V
+
+i
+
+Compaction ratio
+
+=
+
+Vf
+
+(6.9)
+
+Figure 6.9 Cross section extrusion
+dies used in a typical cubing machine
+for MSW processing
+
+Figure 6.10 Complete cubing system
+diagram for MSW processing
+
+Figure 6.11 Densified refusederived fuel (dRDF): Cubes
+shown on top, pellets shown
+below ruler
+
+ For cubing and pelleting equipment, the two most important
+performance characteristics are the unit and bulk specific
+weights of the cubes and pellets.
+ The unit specific weight is the specific weight of an individual
+cube or pellet.
+ The bulk specific weight is a measure of a fixed volume of
+cubes or pellets (i.e., 1 cubic foot) and is indicative of the
+specific weight of cubes or pellets in storage or during
+transport, because it includes the void space caused by
+randomly packing cubes in a container.
+ For example, the cubing system shown in Figure 6.10 has
+achieved unit specific weights of 1750 lb/yd3 for shredded
+newsprint. However, the bulk specific weight of the cubes was
+only 814 lb/yd3.
+
+Design Criteria
+ For design purposes, densification equipment is rated on
+throughput in terms of ton/h.
+ Attention must be paid to the bulk density of the incoming
+and outgoing materials in the design of conveyors and
+material-handling equipment.
+ While some densified materials, such as plastic or
+aluminum, can tolerate moisture, most densified materials
+should be stored in a covered area protected against rain.
+ Because the ultimate bulk specific weight of the material
+is highly dependent on the original specific weight and
+moisture content of the material, a field test should be
+performed to confirm performance.
+
+
