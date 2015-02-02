@@ -93,6 +93,7 @@ public class Graph {
 	 * Method to printResult
 	 * 
 	 **/
+<<<<<<< HEAD
 	public static void printOptimalPath(LinkedList<QueueItem> items, String startNode, String goalNode, int iterationNo){
 		QueueItem item = items.getFirst();
 		String[] path = item.getPath();
@@ -100,6 +101,12 @@ public class Graph {
 		if(iterationNo <1200){
 			System.out.println("Optimal result found in Iteration No :"+iterationNo);	
 		}
+=======
+	public static void printOptimalPath(LinkedList<QueueItem> items, String startNode, String goalNode){
+		QueueItem item = items.getFirst();
+		String[] path = item.getPath();
+		System.out.println("");
+>>>>>>> origin/master
 		System.out.println("For '"+startNode+"_to_"+goalNode+"' The optimal path is");
 		for(int i=0;i<=path.length-1;i++){
 			if(i==path.length-1){

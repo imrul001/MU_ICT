@@ -11,18 +11,27 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
+=======
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.LinkedList;
+>>>>>>> origin/master
 import java.util.Map;
 import java.util.Scanner;
 
 import org.apache.commons.collections4.map.MultiValueMap;
 
+<<<<<<< HEAD
 import validationPackage.Validate;
 
+=======
+>>>>>>> origin/master
 public class GraphSearch {
 
 	/**
@@ -37,12 +46,21 @@ public class GraphSearch {
 			System.out.println("Press 1 to Use Mall Map.");
 			System.out.println("Press 2 to Entry Other Map. ");
 			System.out.println("Press 3 to Terminate the program.");
+<<<<<<< HEAD
 			int check = 0;
 			check = Validate.isCorrectInput(check);
 			if(check == 1){
 				graph = readMallGraphFromFile(graph);
 				search.performUCS(graph);
 			}else if(check == 2){
+=======
+			Scanner scanner = new Scanner(System.in);
+			int check = scanner.nextInt();
+			if(check == 1){
+				graph = readMallGraphFromFile(graph);
+				search.performUCS(graph);
+			}else if(check == 1){
+>>>>>>> origin/master
 				graph = getInputSet();
 				search.performUCS(graph);
 			}else if(check == 3){
@@ -67,7 +85,11 @@ public class GraphSearch {
 
 		Map<String, Integer> edges = new HashMap<String, Integer>();
 		MultiValueMap<String, String> adjacents = new MultiValueMap<String, String>();
+<<<<<<< HEAD
 		String[] nodeList = new String[100];
+=======
+		String[] nodeList = new String[88];
+>>>>>>> origin/master
 		String[] startingNode = new String[1];
 		String[] endNode = new String[1];
 		int index = 0;
@@ -88,12 +110,23 @@ public class GraphSearch {
 			nodeList[index] = p1;
 			index++;
 		}
+<<<<<<< HEAD
 		String[] uniqueNodes = removeNull(new HashSet<String>(Arrays.asList(nodeList)).toArray(new String[nodeList.length]));
 		printUniqueArray(uniqueNodes);
 		System.out.println("Enter the Current/Starting Node....:");
 		startingNode[0] = Validate.checkStringInput(uniqueNodes);
 		System.out.println("Enter the Goal/Ending Node....:");
 		endNode[0] = Validate.checkStringInput(uniqueNodes);
+=======
+		String[] uniqueNodes = new HashSet<String>(Arrays.asList(nodeList)).toArray(new String[nodeList.length]);
+		printUniqueArray(uniqueNodes);
+//		System.out.println("edges size"+edges.size());
+//		System.out.println("adjacent"+adjacents.size());
+		System.out.println("Enter the Current/Starting Node....:");
+		startingNode[0] = scanner.next().trim().toUpperCase();
+		System.out.println("Enter the Goal/Ending Node....:");
+		endNode[0] = scanner.next().trim().toUpperCase();
+>>>>>>> origin/master
 		
 		graph.setNodeList(uniqueNodes);
 		graph.setStartingNode(startingNode);
@@ -103,6 +136,7 @@ public class GraphSearch {
 		
 		return graph;
 	}
+<<<<<<< HEAD
 	
 	/**
 	 * Method To remove null from Array
@@ -118,6 +152,8 @@ public class GraphSearch {
 	    firstArray = list.toArray(new String[list.size()]);
 		return firstArray;
 	}
+=======
+>>>>>>> origin/master
 	/**
 	 * Method to print Node List
 	 * 
@@ -193,9 +229,13 @@ public class GraphSearch {
 	 **/
 	public LinkedList<QueueItem> performUCS(Graph graph){
 		LinkedList<QueueItem> items = new LinkedList<QueueItem>();
+<<<<<<< HEAD
 		LinkedList<QueueItem> listofPathsToGoal = new LinkedList<QueueItem>();
 		QueueItem item = new QueueItem();
 		int index = 0;
+=======
+		QueueItem item = new QueueItem();
+>>>>>>> origin/master
 
 		int pathCost = 0;
 		String[] goalNode = graph.getGoalNode(); 
@@ -210,17 +250,27 @@ public class GraphSearch {
 		
 		for(int i=1;;i++){
 			QueueItem firstItem = items.getFirst();
+<<<<<<< HEAD
 			System.out.println("Current Node to Expand: "+getCurrentNode(firstItem));
 			if(Graph.getAdjacentByNode(getCurrentNode(firstItem), adjacents) != null){
 				String[] adjacentNodes = Graph.getAdjacentByNode(getCurrentNode(firstItem), adjacents);
 			    items = getUnsortedQueue(adjacentNodes, edges, items);
 			}
 			items.removeFirst();
+=======
+			System.out.println(getCurrentNode(firstItem));
+			if(Graph.getAdjacentByNode(getCurrentNode(firstItem), adjacents) != null){
+				String[] adjacentNodes = Graph.getAdjacentByNode(getCurrentNode(firstItem), adjacents);
+			    items = getUnsortedQueue(adjacentNodes, edges, items);
+				items.removeFirst();
+			}
+>>>>>>> origin/master
 			System.out.println("Size of queue "+items.size());
 			MyQueue queue = new MyQueue();
 			items = queue.sortPriorityQueue(items);
 			MyQueue.printTheQueue(items, i);
 			if(isTheGoalState(items, goalState)){
+<<<<<<< HEAD
 				Graph.printOptimalPath(items, path[0], goalState, i);
 				break;
 			}
@@ -243,6 +293,11 @@ public class GraphSearch {
 					break;	
 				}
 			}	
+=======
+				Graph.printOptimalPath(items, path[0], goalState);
+				break;
+			}
+>>>>>>> origin/master
 		}
 		return items;
 	}
@@ -314,6 +369,7 @@ public class GraphSearch {
 			return false;
 		}
 	}
+<<<<<<< HEAD
 	
 	/**
 	 *  Method to get Unsorted longest path to goal
@@ -329,4 +385,6 @@ public class GraphSearch {
 		return listOFlongestPaths;
 		
 	}
+=======
+>>>>>>> origin/master
 }

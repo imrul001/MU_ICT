@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy package &apos;validationPackage&apos; to &apos;GraphSearch/src&apos;&#x0A;- Original project: &apos;NIM&apos;&#x0A;- Destination element: &apos;GraphSearch/src&apos;&#x0A;- Original element: &apos;NIM/src/validationPackage&apos;" description="Copy package" destination="=GraphSearch/src" element1="/src&lt;validationPackage" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1411103881214" version="1.0"/>
-</session>

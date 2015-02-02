@@ -1,0 +1,152 @@
+<html>
+    <head>
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <style>
+            .tableClass{
+                border: 20px solid #ddd;
+                width: 50%;
+            }
+            .tdClass{
+                width: 32%;
+                border: 1px solid black;
+                text-align: center;
+                font-size: 4em;
+                color: white;
+                background-color: #0080FF;
+            }
+            .emptyPosition{
+                color: black;
+                background-color: white;
+            }
+        </style>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                var array = new Array(3,4,6,5,2,7,-1,1,8);
+                var index = 0;
+                var x = createArray(3,3);
+                var emptyPost;
+                console.log(x[1].length);
+                for(var i = 0; i< 3; i++){
+                    for(var j =0; j < 3;j++){
+                        x[i][j] = array[index];
+                        index++;
+                    }
+                }
+                generateGrid(x);
+               
+                $(".tdClass").on("click", function(){
+                    var currentPosition = new Array(2);
+                    var emptyPosition = new Array(2);
+                    var currentValue = $(this).html();
+                    currentPosition[0] = parseInt($(this).attr("position1"));
+                    currentPosition[1] = parseInt($(this).attr("position2"));
+                     
+                    emptyPosition[0] = parseInt($(".emptyPosition").attr("position1"));
+                    emptyPosition[1] = parseInt($(".emptyPosition").attr("position2"));
+                    if(isValidSwap(currentPosition, emptyPosition)){
+                        $(".emptyPosition").html(currentValue);
+                        $(".emptyPosition").removeClass("emptyPosition");
+                        $(this).html("");
+                        $(this).addClass("emptyPosition");
+                    }
+                });
+                
+                function getValueFrom2DArray(x, i, j){
+                    return x[i][j];
+                }
+                
+                function generateGrid(x){
+                    var i = 0, j = 0;
+                    var emptyPosition = new Array(2);                    
+                    $("td.tdClass").each(function(){
+                        var arrayValue = getValueFrom2DArray(x,i,j);
+                        if(arrayValue!= -1){
+                            $(this).html(arrayValue);
+                            $(this).attr("position1", i);
+                            $(this).attr("position2", j);
+                        }else{
+                            $(this).html(""); 
+                            emptyPosition[0] = i;
+                            emptyPosition[1] = j;
+                            $(this).attr("position1", i);
+                            $(this).attr("position2", j);
+                            $(this).addClass("emptyPosition");
+                        }
+                        if(j==2){
+                            i++;j=0;
+                        }else{
+                            j++;
+                        }
+                    })
+                }
+                
+                function createArray(length) {
+                    var arr = new Array(length || 0),
+                    i = length;
+
+                    if (arguments.length > 1) {
+                        var args = Array.prototype.slice.call(arguments, 1);
+                        while(i--) arr[length-1 - i] = createArray.apply(this, args);
+                    }
+
+                    return arr;
+                }
+                
+                function isValidSwap(clickedPosition, emptyPosition){
+                    var eP1 = emptyPosition[0];
+                    var eP2 = emptyPosition[1];
+                    var check = false;
+                    
+                    var cP1 = clickedPosition[0] + 1;
+                    var cP2 = clickedPosition[1] + 1;
+                    var cP3, cP4;
+                    if(clickedPosition[0]!=0){
+                        cP3 = clickedPosition[0] - 1;
+                    }else{
+                        cP3 = clickedPosition[0];
+                    }
+                    if(clickedPosition[1]!=0){
+                        cP4 = clickedPosition[1] - 1;
+                    }else{
+                        cP4 = clickedPosition[1];
+                    }
+                    if(cP1 == eP1 && clickedPosition[1] == eP2){
+                        check = true;
+                    }
+                    if(cP2 == eP2 && clickedPosition[0] == eP1){
+                        check = true;
+                    }
+                    if(cP3 == eP1 && clickedPosition[1] == eP2){
+                        check = true;
+                    }
+                    if(cP4 == eP2 && clickedPosition[0] == eP1){
+                        check = true;
+                    }
+                    return check;                    
+                }
+            })
+        </script>
+    </head>
+    <body>
+        <div class="contetn" style="width: 60%;">
+            <h1>8-Puzzle</h1>
+            <table class="tableClass" id="tableId">
+                <tr>
+                    <td class="tdClass" position1="" position2 =""></td>
+                    <td class="tdClass" position1="" position2 =""></td>
+                    <td class="tdClass" position1="" position2 =""></td>
+                </tr>
+                <tr>
+                    <td class="tdClass" position1="" position2 =""></td>
+                    <td class="tdClass" position1="" position2 =""></td>
+                    <td class="tdClass" position1="" position2 =""></td>
+                </tr>
+                <tr>
+                    <td class="tdClass" position1="" position2 =""></td>
+                    <td class="tdClass" position1="" position2 =""></td>
+                    <td class="tdClass" position1="" position2 =""></td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html> 

@@ -17,6 +17,7 @@ public class ElectronConfiguration {
 		//d
 		//25
 		//String[] eConfig = {"1s2","2s2","2p6","3s2","3p6","3d5","4s2"};
+<<<<<<< HEAD
 		//2
 		//String[] eConfig = {"1s2"};
 		//21
@@ -24,12 +25,17 @@ public class ElectronConfiguration {
 		String[] eConfig = {"1s2","2s2","2p6","3s2","3p6","4s2","3d1"}; 
 		//Exception
 		
+=======
+		
+		//Exception
+>>>>>>> origin/master
 		//29
 		//String[] eConfig = {"1s2","2s2","2p6","3s2","3p6","3d10","4s1"};
 		//24
 		//String[] eConfig = {"1s2","2s2","2p6","3s2","3p6","3d5","4s1"};
 		//30
 		//String[] eConfig = {"1s2","2s2","2p6","3s2","3p6","3d10","4s2"};
+<<<<<<< HEAD
 		//44
 		//String[] eConfig = {"1s2","2s2","2p6","3s2","3p6","4s2","3d10","4p6","5s1","4d7"};
 		//45
@@ -48,6 +54,8 @@ public class ElectronConfiguration {
 		//String[] eConfig = {"1s2","2s2","2p6","3s2","3p6","4s2","3d10","4p6","5s2","4d10","5p6","6s2","4f14","5d10","6p6","7s2","6d8"};
 		//79
 		//String[] eConfig = {"1s2","2s2","2p6","3s2","3p6","4s2","3d10","4p6","5s2","4d10","5p6","6s1","4f14","5d10"};
+=======
+>>>>>>> origin/master
 
 		//109
 		//String[] eConfig = {"1s2","2s2","2p6","3s2","3p6","4s2","3d10","4p6","5s2","4d10","5p6","6s2","4f14","5d10","6p6","7s2","5f14","6d7"};
@@ -64,7 +72,11 @@ public class ElectronConfiguration {
 		//100
 		//String[] eConfig = {"1s2","2s2","2p6","3s2","3p6","4s2","3d10","4p6","5s2","4d10","5p6","6s2","4f14","5d10","6p6","7s2","5f12"};
 		//98
+<<<<<<< HEAD
 		//String[] eConfig ={"1s2","2s2","2p6","3s2","3p6","4s2","3d10","4p6","5s2","4d10","5p6","6s2","4f14","5d10","6p6","7s2","5f10"};
+=======
+		String[] eConfig ={"1s2","2s2","2p6","3s2","3p6","4s2","3d10","4p6","5s2","4d10","5p6","6s2","4f14","5d10","6p6","7s2","5f10"};
+>>>>>>> origin/master
 		ElectronConfiguration configuration = new ElectronConfiguration();
 		AtomPostion postion = configuration.getAtomPosition(eConfig);
 		System.out.println("Block :"+postion.getBlock());
@@ -87,7 +99,11 @@ public class ElectronConfiguration {
 	/*
 	 * Method to Determine Block from Electron configuration 
 	 * 
+<<<<<<< HEAD
 	 **///1s2 2s2 2p6 3s2 3p6 4s2 3d1
+=======
+	 **/
+>>>>>>> origin/master
 	public static String getBlock(String[] eConf){
 		String block = null;
 		String outerOrbital = getRowFromEconfig(eConf);
@@ -115,7 +131,11 @@ public class ElectronConfiguration {
 			}
 		}else{
 			//D OR S
+<<<<<<< HEAD
 			if(hasOrbital(eConf, String.valueOf(Integer.valueOf(outerOrbital)-1)+"d") && isCorrectLimit(eConf, String.valueOf(Integer.valueOf(outerOrbital)-1)+"d", 1, 10)){
+=======
+			if(hasOrbital(eConf, String.valueOf(Integer.valueOf(outerOrbital)-1)+"d5") || hasOrbital(eConf, String.valueOf(Integer.valueOf(outerOrbital)-1)+"d10")){
+>>>>>>> origin/master
 				block = "D";
 			}else{
 				block = "S";
@@ -214,9 +234,12 @@ public class ElectronConfiguration {
 			if(hasOrbital(eConf, outerOrbital.trim()+"s")){
 				sElectron = getElectronByOrbital(eConf,outerOrbital.trim()+"s");
 			}
+<<<<<<< HEAD
 			if(eConf.length == 1 && getElectronByOrbital(eConf,outerOrbital.trim()+"s").equalsIgnoreCase("2")){
 				sElectron = "8";
 			}
+=======
+>>>>>>> origin/master
 			column = sElectron+"A";
 		}
 		return column;
