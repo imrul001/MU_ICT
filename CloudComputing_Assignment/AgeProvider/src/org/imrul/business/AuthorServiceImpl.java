@@ -3,9 +3,11 @@ package org.imrul.business;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
+import orgs.imrul.classList.AgeClass;
+
 public class AuthorServiceImpl {
 	
-	public int getAuthorAge(int year, int month, int day){
+	public AgeClass getAuthorAge(int year, int month, int day, String name){
 		Calendar cal = new GregorianCalendar(year, month, day);
 	    Calendar now = new GregorianCalendar();
 	    int res = now.get(Calendar.YEAR) - cal.get(Calendar.YEAR);
@@ -14,7 +16,10 @@ public class AuthorServiceImpl {
 	            .get(Calendar.DAY_OF_MONTH))) {
 	      res--;
 	    }
-	    return res;
+	    AgeClass ageClass = new AgeClass();
+	    ageClass.setAge(res);
+	    ageClass.setName(name);
+	    return ageClass;
 	}
 
 }
